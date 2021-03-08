@@ -1,9 +1,3 @@
----
-layout: archive
-title: "Portfolio"
-permalink: /portfolio/
-author_profile: true
----
 
 **PhD students**:
 
@@ -18,11 +12,4 @@ plant systems biology, network inference, gene regulatory networks
 
 *Mr. Ibnu Kurniawan*
 IoT, optimisation, mobile computing and communications
-
-{% include base_path %}
-
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
 
