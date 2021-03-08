@@ -33,5 +33,9 @@ F He, HL Wei, SA Billings, [Identification and frequency domain analysis of non-
 
 F He, SA Billings, HL Wei, PG Sarrigiannis, [A nonlinear causality measure in the frequency domain: Nonlinear partial directed coherence with applications to EEG](https://www.sciencedirect.com/science/article/pii/S0165027014000247), *Journal of neuroscience methods*, 225, 71-80, 2014.
 
+HV Westerhoff, AN Brooks, E Simeonidis, R García-Contreras, F He, F C Boogerd, VJ Jackson, V Goncharuk, A Kolodkin, [Macromolecular networks and intelligence in microorganisms](https://www.frontiersin.org/articles/10.3389/fmicb.2014.00379/full), *Frontiers in microbiology* 5, 379, 2014.
+
+F He, HL Wei, SA Billings, PG Sarrigiannis, [A nonlinear generalization of spectral granger causality](https://ieeexplore.ieee.org/abstract/document/6725625), *IEEE Transactions on Biomedical Engineering*, 61 (6), 1693-1701.
+
 F He, SA Billings, HL Wei, PG Sarrigiannis, Y Zhao, [Spectral analysis for nonstationary and nonlinear systems: A discrete-time-model-based approach](https://ieeexplore.ieee.org/abstract/document/6478782), *IEEE Transactions on Biomedical Engineering*, 60 (8), 2233-2241, 2013.
 
