@@ -19,6 +19,8 @@ E-mail: fei.he@coventry.ac.uk
 - Network inference for complex biochemical and neurological networks
 - Bayesian inference (parameter estimation and model selection), model-based experimental design
 
+You can find my recent [list of publications](https://feihelab.github.io/publications/) here.
+
 News!
 ------
 1. 2 fully-funded PhD studentships (international, UK/EU) for September 2021 start, jointly led by me and Dr Min Wu from Singapore A-STAR, on [Network Inference, Brain Connectivity & Machine Learning](https://www.findaphd.com/phds/project/network-inference-and-machine-learning-understanding-brain-connectivity-and-neurological-disorders/?p129069). Please email me your CV before apply.
