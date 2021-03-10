@@ -31,4 +31,6 @@ News!
 
 ------
 
+<div style="text-align: center;">
 <div style="display:inline-block;width:277px;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5tg2ogn1an3&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script></div>
+</div>
