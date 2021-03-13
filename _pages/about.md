@@ -7,8 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Assistant Professor in Centre for Data Science, School of Computing, Electronics, and Mathematics, Coventry University, UK.
+I am an Assistant Professor (Senior Lecturer) in Centre for Data Science, School of Computing, Electronics, and Mathematics, Coventry University, UK.
 My current research interests are at the interface between control systems engineering and neuroscience - especially the use of nonlinear system identification to study complex nonlinear interactions in human brain network and diagnosis of neurological disorders (e.g. Alzheimer’s disease, tremor, seizures). I am also interested in statistical machine learnig, network inference and their applications in neuroscience and systems biology, e.g. identifying complex regulatory mechanisms in cellular (metabolic, genetic) networks.
+
+Before joining Coventry, I previously held research positions at Imperial College London (Theoretical Systems Biology group), University of Sheffield, and University of Manchester (Manchester Centre for Integrative Systems Biology). I received a PhD and an MSc (distinction) in control engineering from the University of Manchester.
 
 E-mail: fei.he@coventry.ac.uk
 
