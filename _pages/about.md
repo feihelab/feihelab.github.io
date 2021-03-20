@@ -25,7 +25,7 @@ You can find my recent [list of publications](https://feihelab.github.io/publica
 
 News!
 ------
-1. I am co-editing a Special issue for *Frontiers in Computational Neuroscience & Frontiers in Neuroinformatics* on [Nonlinear Connectivity, Causality and Information Processing in Neuroscience](https://www.frontiersin.org/research-topics/20200/nonlinear-connectivity-causality-and-information-processing-in-neuroscience). Please submit your abstract by 15 June, 2021! 
+1. I am co-editing a Special issue for *Frontiers in Computational Neuroscience & Frontiers in Neuroinformatics* on [Nonlinear Connectivity, Causality and Information Processing in Neuroscience](https://www.frontiersin.org/research-topics/20200/nonlinear-connectivity-causality-and-information-processing-in-neuroscience). Please confirm your participation now & submit your abstract by 15 June, 2021! 
 
 2. 2 fully-funded PhD studentships (international, UK/EU) for September 2021 start, jointly led by me and Dr Min Wu from Singapore A-STAR, on [Network Inference, Brain Connectivity & Machine Learning](https://www.findaphd.com/phds/project/network-inference-and-machine-learning-understanding-brain-connectivity-and-neurological-disorders/?p129069). Please email me your CV before apply.
 
