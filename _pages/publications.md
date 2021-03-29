@@ -39,3 +39,6 @@ F He, HL Wei, SA Billings, PG Sarrigiannis, [A nonlinear generalization of spect
 
 F He, SA Billings, HL Wei, PG Sarrigiannis, Y Zhao, [Spectral analysis for nonstationary and nonlinear systems: A discrete-time-model-based approach](https://ieeexplore.ieee.org/abstract/document/6478782), *IEEE Transactions on Biomedical Engineering*, 60 (8), 2233-2241, 2013.
 
+F He, V Fromion, HV Westerhoff, [(Im) Perfect robustness and adaptation of metabolic networks subject to metabolic and gene-expression regulation: marrying control engineering with metabolic control analysis](https://link.springer.com/article/10.1186/1752-0509-7-131), *BMC systems biology*, 7(1),131, 2013.
+
+Y Zhao, SA Billings, H Wei, F He, PG Sarrigiannis, [A new NARX-based Granger linear and nonlinear casual influence detection method with applications to EEG data](https://www.sciencedirect.com/science/article/pii/S0165027012003913), *Journal of Neuroscience Methods*, 212(1), 79-86, 2013.
