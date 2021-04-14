@@ -21,7 +21,7 @@ E-mail: fei.he@coventry.ac.uk
 - Network inference for complex biochemical and neurological networks
 - Bayesian inference (parameter estimation and model selection), model-based experimental design
 
-You can find my recent [list of publications](https://feihelab.github.io/publications/) and [University's webpage](https://pureportal.coventry.ac.uk/en/persons/fei-he) here.
+You can find my recent [list of publications](https://feihelab.github.io/publications/), [ResearchGate profile](https://www.researchgate.net/profile/Fei-He), and [University's webpage](https://pureportal.coventry.ac.uk/en/persons/fei-he) here.
 
 News!
 ------
