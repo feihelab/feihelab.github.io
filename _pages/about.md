@@ -27,7 +27,7 @@ If you are interested to apply for a postdoctoral fellowship (e.g. Marie Sklodow
 
 News!
 ------
-1. I am co-editing a Special issue for *Frontiers in Computational Neuroscience & Frontiers in Neuroinformatics* on [Nonlinear Connectivity, Causality and Information Processing in Neuroscience](https://www.frontiersin.org/research-topics/20200/nonlinear-connectivity-causality-and-information-processing-in-neuroscience). Welcome for submissions! Please confirm your participation now & submit your abstract by 15 June, 2021.
+1. I am co-editing a Special issue for *Frontiers in Computational Neuroscience & Frontiers in Neuroinformatics* on [Nonlinear Connectivity, Causality and Information Processing in Neuroscience](https://www.frontiersin.org/research-topics/20200/nonlinear-connectivity-causality-and-information-processing-in-neuroscience). Welcome for submissions! Please confirm your participation now & submit your abstract by 15 August, 2021.
 
 2. A fully-funded [Doctoral Training Alliance (DTA)](https://unialliance.ac.uk/dta/programmes/) PhD studentship is available on developing Novel Information-Theoretic Causality Measure with application in Neuroscience and Dementia (jointly led by Prof. E Kim and me). Further details can be found [here](https://www.coventry.ac.uk/research/research-opportunities/research-students/research-studentships/novel-information-theoretic-causality-measure/). Application deadline: 17 May, 2021.
 
