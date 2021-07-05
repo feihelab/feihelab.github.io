@@ -16,8 +16,8 @@ E-mail: fei.he@coventry.ac.uk
 
 **Research interests**
 
-- NARMAX model-based nonlinear frequency analysis 
-- Nonlinear connectivity, cross-frequncy coupling & causality analysis
+- Nonlinear system identification: NARMAX modelling & nonlinear frequency-domain analysis 
+- Nonlinear connectivity, cross-frequncy coupling & causality analysis in neuroscience
 - Network inference for complex biochemical and neurological networks
 - Bayesian inference (parameter estimation and model selection), model-based experimental design
 
