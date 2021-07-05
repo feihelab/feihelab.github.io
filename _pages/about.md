@@ -12,6 +12,8 @@ My current research interests are at the interface between control systems engin
 
 I previously held research positions at Imperial College London (Theoretical Systems Biology group), University of Sheffield, and University of Manchester (Manchester Centre for Integrative Systems Biology). I received a PhD and an MSc (distinction) in control engineering from the University of Manchester.  I am editorial board member of Frontiers in Computational Neuroscience, and have served as reviewer for a number of peer-reviewed journals (including 4 IEEE Transactions, Proc. IEEE, Automatica, IET Systems Biology, Biophysical Journal, Int. J. Syst Science, Entropy). I am also the reviewer for international funding bodies (including EPSRC). Currently, I am a member of the UKRI Future Leaders Fellowships (FLF) peer review college.
 
+If you are interested to apply for a postdoc Fellowship (e.g. Marie Sklodowska-Curie, UKRI, Leverhulme, Newton International) or a visiting position in my group, please do not hesitate to get in touch with me. Every year, I also have 1-2 fully-funded PhD studentship.
+
 E-mail: fei.he@coventry.ac.uk
 
 **Research interests**
@@ -22,8 +24,6 @@ E-mail: fei.he@coventry.ac.uk
 - Bayesian inference (parameter estimation and model selection), model-based experimental design
 
 You can find my recent [list of publications](https://feihelab.github.io/publications/), [ResearchGate](https://www.researchgate.net/profile/Fei-He), and [University's webpage](https://pureportal.coventry.ac.uk/en/persons/fei-he) here.
-
-If you are interested to apply for a postdoc Fellowship (e.g. Marie Sklodowska-Curie, UKRI, Leverhulme, Newton International) or a visiting position in my group, please do not hesitate to get in touch with me.
 
 News!
 ------
