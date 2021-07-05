@@ -23,7 +23,7 @@ E-mail: fei.he@coventry.ac.uk
 
 You can find my recent [list of publications](https://feihelab.github.io/publications/), [ResearchGate](https://www.researchgate.net/profile/Fei-He), and [University's webpage](https://pureportal.coventry.ac.uk/en/persons/fei-he) here.
 
-If you are interested to apply for a postdoctoral fellowship (e.g. Marie Sklodowska-Curie, UKRI) in my group, please get in touch with me.
+If you are interested to apply for a postdoc Fellowship (e.g. Marie Sklodowska-Curie, UKRI, Leverhume, Newton International) or a visiting position in my group, please do not hesitate to get in touch with me.
 
 News!
 ------
