@@ -9,7 +9,7 @@ author_profile: true
 
 D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, P Sarrigiannis, [Bispectrum-based Cross-frequency Functional Connectivity: A Study of Alzheimer's Disease](https://www.biorxiv.org/content/10.1101/2021.08.07.455499v1), bioRxiv, doi: https://doi.org/10.1101/2021.08.07.455499, 2021.
 
-D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, M De Marco, P Sarrigiannis, [Characterising Alzheimer's Disease with EEG-based Energy Landscape Analysis](https://arxiv.org/pdf/2102.09882.pdf), [arXiv:2102.09882](https://arxiv.org/abs/2102.09882), 2021.
+D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, M De Marco, P Sarrigiannis, [Characterising Alzheimer's Disease with EEG-based Energy Landscape Analysis](https://arxiv.org/pdf/2102.09882.pdf), [arXiv:2102.09882](https://arxiv.org/abs/2102.09882), 2021. [code](https://github.com/dominikklepl/AD-energy-landscape) (Accepted by IEEE J. Biomed. Health Inform.)
 
 Y Yang, B Vasudeva, HH Refai, F He, [Multi-Phase Locking Value: A Generalized Method for Determining Instantaneous Multi-frequency Phase Coupling](https://arxiv.org/pdf/2102.10471.pdf),[arXiv:2102.10471](https://arxiv.org/abs/2102.10471), 2021.
 
