@@ -28,7 +28,7 @@ You can find my recent [list of publications](https://feihelab.github.io/publica
 News!
 ------
 
-1. New preprint - D Klepl, F He, M Wu, DJ Blackburn, P Sarrigiannis, [Bispectrum-based Cross-frequency Functional Connectivity: A Study of Alzheimer's Disease](https://www.biorxiv.org/content/10.1101/2021.08.07.455499v1), bioRxiv, doi: https://doi.org/10.1101/2021.08.07.455499, 2021.
+1. New preprint - D Klepl, F He, M Wu, DJ Blackburn, P Sarrigiannis, [Bispectrum-based Cross-frequency Functional Connectivity: A Study of Alzheimer's Disease](https://www.biorxiv.org/content/10.1101/2021.08.07.455499v1), bioRxiv, doi: https://doi.org/10.1101/2021.08.07.455499, August 2021.
 
 2. I am co-editing a Special issue for *Frontiers in Computational Neuroscience & Frontiers in Neuroinformatics* on [Nonlinear Connectivity, Causality and Information Processing in Neuroscience](https://www.frontiersin.org/research-topics/20200/nonlinear-connectivity-causality-and-information-processing-in-neuroscience). Welcome for submissions! Please confirm your participation now & submit your abstract by 15 August, 2021.
 
