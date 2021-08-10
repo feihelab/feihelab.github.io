@@ -9,13 +9,15 @@ author_profile: true
 
 D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, P Sarrigiannis, [Bispectrum-based Cross-frequency Functional Connectivity: A Study of Alzheimer's Disease](https://www.biorxiv.org/content/10.1101/2021.08.07.455499v1), bioRxiv, doi: https://doi.org/10.1101/2021.08.07.455499, 2021.
 
-D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, M De Marco, P Sarrigiannis, [Characterising Alzheimer's Disease with EEG-based Energy Landscape Analysis](https://arxiv.org/pdf/2102.09882.pdf), [arXiv:2102.09882](https://arxiv.org/abs/2102.09882), 2021. [code](https://github.com/dominikklepl/AD-energy-landscape) (Accepted by IEEE J. Biomed. Health Inform.)
+D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, M De Marco, P Sarrigiannis, [Characterising Alzheimer's Disease with EEG-based Energy Landscape Analysis](https://arxiv.org/pdf/2102.09882.pdf), [arXiv:2102.09882](https://arxiv.org/abs/2102.09882), 2021. [[code]](https://github.com/dominikklepl/AD-energy-landscape) (Accepted by IEEE J. Biomed. Health Inform.)
 
 Y Yang, B Vasudeva, HH Refai, F He, [Multi-Phase Locking Value: A Generalized Method for Determining Instantaneous Multi-frequency Phase Coupling](https://arxiv.org/pdf/2102.10471.pdf),[arXiv:2102.10471](https://arxiv.org/abs/2102.10471), 2021.
 
 **Recent Journal papers**
 
 F He, Y Yang, [Nonlinear System Identification of Neural Systems from Neurophysiological Signals](https://www.sciencedirect.com/science/article/pii/S0306452220307703),  *Neuroscience*, 458, 213-228, 2021. [preprint](https://www.researchgate.net/publication/343563477_Nonlinear_System_Identification_of_Neural_Systems_from_Neurophysiological_Signals)
+
+IF Kurniawanad, T Asyhari, F He, Y Liu, [Mobile computing and communications-driven fog-assisted disaster evacuation techniques for context-aware guidance support: A survey](https://www.sciencedirect.com/science/article/pii/S0140366421002802), Computer Communications, https://doi.org/10.1016/j.comcom.2021.07.020, In press, 2021.
 
 E Tankhilevich, J Ish-Horowicz, T Hameed, E Roesch, I Kleijn, MPH Stumpf, F He, [GpABC: a Julia package for approximate Bayesian computation with Gaussian process emulation](https://academic.oup.com/bioinformatics/article/36/10/3286/5727756), *Bioinformatics*, 36, 3286–3287, 2020. [[Julia package]](https://github.com/tanhevg/GpABC.jl)
 
