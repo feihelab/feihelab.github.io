@@ -27,15 +27,18 @@ You can find my recent [list of publications](https://feihelab.github.io/publica
 
 News!
 ------
-1. I am co-editing a Special issue for *Frontiers in Computational Neuroscience & Frontiers in Neuroinformatics* on [Nonlinear Connectivity, Causality and Information Processing in Neuroscience](https://www.frontiersin.org/research-topics/20200/nonlinear-connectivity-causality-and-information-processing-in-neuroscience). Welcome for submissions! Please confirm your participation now & submit your abstract by 15 August, 2021.
 
-2. A fully-funded [Doctoral Training Alliance (DTA)](https://unialliance.ac.uk/dta/programmes/) PhD studentship is available on developing Novel Information-Theoretic Causality Measure with application in Neuroscience and Dementia (jointly led by Prof. E Kim and me). Further details can be found [here](https://www.coventry.ac.uk/research/research-opportunities/research-students/research-studentships/novel-information-theoretic-causality-measure/). Application deadline: 17 May, 2021.
+1. New preprint - D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, P Sarrigiannis, [Bispectrum-based Cross-frequency Functional Connectivity: A Study of Alzheimer's Disease](https://www.biorxiv.org/content/10.1101/2021.08.07.455499v1), bioRxiv, doi: https://doi.org/10.1101/2021.08.07.455499, 2021.
 
-3. Fully-funded PhD studentships (international, UK/EU) are available for September 2021 start, jointly led by me and Dr Min Wu from Singapore A-STAR, on [Network Inference, Brain Connectivity & Machine Learning](https://www.findaphd.com/phds/project/network-inference-and-machine-learning-understanding-brain-connectivity-and-neurological-disorders/?p129069). Please email me your CV before apply.
+2. I am co-editing a Special issue for *Frontiers in Computational Neuroscience & Frontiers in Neuroinformatics* on [Nonlinear Connectivity, Causality and Information Processing in Neuroscience](https://www.frontiersin.org/research-topics/20200/nonlinear-connectivity-causality-and-information-processing-in-neuroscience). Welcome for submissions! Please confirm your participation now & submit your abstract by 15 August, 2021.
 
-4. New preprint! Nice work from *Dominik Klepl* on [Characterising Alzheimer's Disease with EEG-based Energy Landscape Analysis](https://arxiv.org/abs/2102.09882). The results show AD patients’ brain network/state transition are more constrained with more local minima, less variation and smaller basins. Those features of Energy Landscape can potentially be used to predict AD with high accuracy.
+3. A fully-funded [Doctoral Training Alliance (DTA)](https://unialliance.ac.uk/dta/programmes/) PhD studentship is available on developing Novel Information-Theoretic Causality Measure with application in Neuroscience and Dementia (jointly led by Prof. E Kim and me). Further details can be found [here](https://www.coventry.ac.uk/research/research-opportunities/research-students/research-studentships/novel-information-theoretic-causality-measure/). Application deadline: 17 May, 2021.
 
-5. Our review (with Dr Yuan Yang) on [Nonlinear System Identification of Neural Systems from Neurophysiological Signals](https://www.sciencedirect.com/science/article/pii/S0306452220307703) is published in *Neuroscience*. You can find the [preprint here](https://www.researchgate.net/publication/343563477_Nonlinear_System_Identification_of_Neural_Systems_from_Neurophysiological_Signals).
+4. Fully-funded PhD studentships (international, UK/EU) are available for September 2021 start, jointly led by me and Dr Min Wu from Singapore A-STAR, on [Network Inference, Brain Connectivity & Machine Learning](https://www.findaphd.com/phds/project/network-inference-and-machine-learning-understanding-brain-connectivity-and-neurological-disorders/?p129069). Please email me your CV before apply.
+
+5. New preprint! Nice work from *Dominik Klepl* on [Characterising Alzheimer's Disease with EEG-based Energy Landscape Analysis](https://arxiv.org/abs/2102.09882). The results show AD patients’ brain network/state transition are more constrained with more local minima, less variation and smaller basins. Those features of Energy Landscape can potentially be used to predict AD with high accuracy.
+
+6. Our review (with Dr Yuan Yang) on [Nonlinear System Identification of Neural Systems from Neurophysiological Signals](https://www.sciencedirect.com/science/article/pii/S0306452220307703) is published in *Neuroscience*. You can find the [preprint here](https://www.researchgate.net/publication/343563477_Nonlinear_System_Identification_of_Neural_Systems_from_Neurophysiological_Signals).
 
 ------
 
