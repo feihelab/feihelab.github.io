@@ -17,7 +17,7 @@ Y Yang, B Vasudeva, HH Refai, F He, [Multi-Phase Locking Value: A Generalized Me
 
 F He, Y Yang, [Nonlinear System Identification of Neural Systems from Neurophysiological Signals](https://www.sciencedirect.com/science/article/pii/S0306452220307703),  *Neuroscience*, 458, 213-228, 2021. [preprint](https://www.researchgate.net/publication/343563477_Nonlinear_System_Identification_of_Neural_Systems_from_Neurophysiological_Signals)
 
-IF Kurniawanad, T Asyhari, F He, Y Liu, [Mobile computing and communications-driven fog-assisted disaster evacuation techniques for context-aware guidance support: A survey](https://www.sciencedirect.com/science/article/pii/S0140366421002802), Computer Communications, https://doi.org/10.1016/j.comcom.2021.07.020, In press, 2021.
+IF Kurniawanad, T Asyhari, F He, Y Liu, [Mobile computing and communications-driven fog-assisted disaster evacuation techniques for context-aware guidance support: A survey](https://www.sciencedirect.com/science/article/pii/S0140366421002802), *Computer Communications*, https://doi.org/10.1016/j.comcom.2021.07.020, in press, 2021.
 
 E Tankhilevich, J Ish-Horowicz, T Hameed, E Roesch, I Kleijn, MPH Stumpf, F He, [GpABC: a Julia package for approximate Bayesian computation with Gaussian process emulation](https://academic.oup.com/bioinformatics/article/36/10/3286/5727756), *Bioinformatics*, 36, 3286–3287, 2020. [[Julia package]](https://github.com/tanhevg/GpABC.jl)
 
