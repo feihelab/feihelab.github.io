@@ -13,7 +13,7 @@ Y Yang, B Vasudeva, HH Refai, F He, [Multi-Phase Locking Value: A Generalized Me
 
 **Recent Journal papers**
 
-D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, M De Marco, P Sarrigiannis, [Characterising Alzheimer's Disease with EEG-based Energy Landscape Analysis](https://arxiv.org/pdf/2102.09882.pdf), [arXiv:2102.09882](https://arxiv.org/abs/2102.09882), *IEEE Journal of Biomedical and Health Informatics*, accepted, 2021. [[code]](https://github.com/dominikklepl/AD-energy-landscape)
+D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, M De Marco, P Sarrigiannis, [Characterising Alzheimer's Disease with EEG-based Energy Landscape Analysis](https://arxiv.org/pdf/2102.09882.pdf), [arXiv:2102.09882](https://arxiv.org/abs/2102.09882), *IEEE Journal of Biomedical and Health Informatics, accepted, 2021. [[code]](https://github.com/dominikklepl/AD-energy-landscape)
 
 F He, Y Yang, [Nonlinear System Identification of Neural Systems from Neurophysiological Signals](https://www.sciencedirect.com/science/article/pii/S0306452220307703),  *Neuroscience*, 458, 213-228, 2021. [preprint](https://www.researchgate.net/publication/343563477_Nonlinear_System_Identification_of_Neural_Systems_from_Neurophysiological_Signals)
 
