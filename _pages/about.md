@@ -28,7 +28,7 @@ You can find my recent [list of publications](https://feihelab.github.io/publica
 News!
 ------
 
-1. [Dec 2021] I am co-editing a Special issue for *Frontiers in Computational Neuroscience & Frontiers in Neuroinformatics* on [Nonlinear Connectivity, Causality and Information Processing in Neuroscience](https://www.frontiersin.org/research-topics/20200/nonlinear-connectivity-causality-and-information-processing-in-neuroscience). Welcome for submissions! Please submit your manuscript by 31 January, 2022 (extended deadline).
+1. [Dec 2021] I am co-editing a Special issue for *Frontiers in Computational Neuroscience & Frontiers in Neuroinformatics* on [Nonlinear Connectivity, Causality and Information Processing in Neuroscience](https://www.frontiersin.org/research-topics/20200/nonlinear-connectivity-causality-and-information-processing-in-neuroscience). Welcome for submissions! Please submit your manuscript by 31 January, 2022.
 
 2. [Oct 2021] I organised a CSM spotlight series event on [Nonlinear connectivity and frequency-domain analysis in neuroscience](https://www.coventry.ac.uk/research/about-us/research-events/2021/nonlinear-connectivity-and-frequency-domain-analysis-in-neuroscience/), very pleased to invite Dr Alexander Zhigalov (Univ. of Birmingham) and my PhD student (Rajintha) to give joint seminar talks.
  
