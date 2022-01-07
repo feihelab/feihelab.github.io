@@ -11,7 +11,7 @@ D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, P Sarrigiannis, [Bispectrum-based
 
 SR Gunawardena, PG Sarrigiannis, DJ Blackburn, F He, [A Kernel-based Nonlinear Manifold Learning for EEG Channel Selection with Application to Alzheimer's Disease](https://www.biorxiv.org/content/10.1101/2021.10.15.464451v1), bioRxiv, doi: https://doi.org/10.1101/2021.10.15.464451, 2021.
 
-Y Yang, B Vasudeva, HH Refai, F He, [Multi-Phase Locking Value: A Generalized Method for Determining Instantaneous Multi-frequency Phase Coupling](https://arxiv.org/pdf/2102.10471.pdf),[arXiv:2102.10471](https://arxiv.org/abs/2102.10471), 2021.
+B Vasudeva, R Tian, DH, Wu, SA. James, HH Refai, L Ding, F He, Y Yang, [Multi-Phase Locking Value: A Generalized Method for Determining Instantaneous Multi-frequency Phase Coupling](https://www.sciencedirect.com/science/article/pii/S1746809422000143?dgcid=author),[preprint:arXiv](https://arxiv.org/abs/2102.10471), Biomedical Signal Procesing and Control, 74, 2022. (in press)
 
 **Recent Journal papers**
 
