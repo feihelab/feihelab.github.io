@@ -11,9 +11,9 @@ D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, P Sarrigiannis, [Bispectrum-based
 
 SR Gunawardena, PG Sarrigiannis, DJ Blackburn, F He, [A Kernel-based Nonlinear Manifold Learning for EEG Channel Selection with Application to Alzheimer's Disease](https://www.biorxiv.org/content/10.1101/2021.10.15.464451v1), bioRxiv, doi: https://doi.org/10.1101/2021.10.15.464451, 2021.
 
-B Vasudeva, R Tian, DH, Wu, SA. James, HH Refai, L Ding, F He, Y Yang, [Multi-Phase Locking Value: A Generalized Method for Determining Instantaneous Multi-frequency Phase Coupling](https://www.sciencedirect.com/science/article/pii/S1746809422000143?dgcid=author),[preprint:arXiv](https://arxiv.org/abs/2102.10471), Biomedical Signal Procesing and Control, 74, 2022. (in press)
-
 **Recent Journal papers**
+
+B Vasudeva, R Tian, DH, Wu, SA. James, HH Refai, L Ding, F He, Y Yang, [Multi-Phase Locking Value: A Generalized Method for Determining Instantaneous Multi-frequency Phase Coupling](https://www.sciencedirect.com/science/article/pii/S1746809422000143?dgcid=author), [[preprint:arXiv]](https://arxiv.org/abs/2102.10471), Biomedical Signal Procesing and Control, 74, 2022. (in press)
 
 D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, M De Marco, P Sarrigiannis, [Characterising Alzheimer's Disease with EEG-based Energy Landscape Analysis](https://ieeexplore.ieee.org/document/9516993), _IEEE Journal of Biomedical and Health Informatics_, doi: 10.1109/JBHI.2021.3105397, in press, 2021. [[preprint: arXiv]](https://arxiv.org/abs/2102.09882) [[code]](https://github.com/dominikklepl/AD-energy-landscape)
 
