@@ -27,6 +27,7 @@ You can find my recent [list of publications](https://feihelab.github.io/publica
 
 News!
 ------
+1. [Jan 2022] I am co-editing a Speical Issue on [EEG Signal Processing Techniques and Applications](https://www.mdpi.com/journal/sensors/special_issues/EEG_Signal_Processing_Techniques) in *Sensors*. 
 
 1. [Dec 2021] I am co-editing a Special issue for *Frontiers in Computational Neuroscience & Frontiers in Neuroinformatics* on [Nonlinear Connectivity, Causality and Information Processing in Neuroscience](https://www.frontiersin.org/research-topics/20200/nonlinear-connectivity-causality-and-information-processing-in-neuroscience). Welcome for submissions! Please submit your manuscript by 31 January, 2022.
 
