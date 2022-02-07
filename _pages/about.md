@@ -31,7 +31,7 @@ News!
 
 1. [Dec 2021] I am co-editing a Special Issue for *Frontiers in Computational Neuroscience & Frontiers in Neuroinformatics* on [Nonlinear Connectivity, Causality and Information Processing in Neuroscience](https://www.frontiersin.org/research-topics/20200/nonlinear-connectivity-causality-and-information-processing-in-neuroscience). Welcome for submissions! Please submit your manuscript by 31 January, 2022.
 
-2. [Oct 2021] I organised a CSM spotlight series event on [Nonlinear connectivity and frequency-domain analysis in neuroscience](https://www.coventry.ac.uk/research/about-us/research-events/2021/nonlinear-connectivity-and-frequency-domain-analysis-in-neuroscience/), very pleased to invite Dr Alexander Zhigalov (Univ. of Birmingham) and my PhD student (Rajintha) to give joint seminar talks.
+2. [Oct 2021] I organised a CSM spotlight series event on [Nonlinear connectivity and frequency-domain analysis in neuroscience](https://www.coventry.ac.uk/research/about-us/research-events/2021/nonlinear-connectivity-and-frequency-domain-analysis-in-neuroscience/), very pleased to invite Dr Alex Zhigalov (Univ. of Birmingham) and my PhD student (Rajintha) to give joint seminar talks.
  
 3. [Oct 2021] Fully-funded PhD studentships (international, UK/EU) are available for January 2022 start, jointly led by me and Dr Min Wu from Singapore A-STAR, on [Network Inference, Brain Connectivity & Machine Learning](https://www.findaphd.com/phds/project/network-inference-and-machine-learning-understanding-brain-connectivity-and-neurological-disorders/?p134398). Application deadline: 04 October 2021. Please email me your CV before apply.
 
