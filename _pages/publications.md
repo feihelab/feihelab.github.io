@@ -11,6 +11,8 @@ D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, P Sarrigiannis, [Bispectrum-based
 
 SR Gunawardena, PG Sarrigiannis, DJ Blackburn, F He, [A Kernel-based Nonlinear Manifold Learning for EEG Channel Selection with Application to Alzheimer's Disease](https://www.biorxiv.org/content/10.1101/2021.10.15.464451v1), bioRxiv, doi: https://doi.org/10.1101/2021.10.15.464451, 2021.
 
+M Foo, L Dony, F He, [Data-driven dynamical modelling of a pathogen-infected plant gene regulatory network: a comparative analysis](https://www.biorxiv.org/content/10.1101/2022.02.03.479002v1), bioRxiv, doi: https://doi.org/10.1101/2022.02.03.479002, 2022.
+
 **Recent Journal papers**
 
 B Vasudeva, R Tian, DH, Wu, SA. James, HH Refai, L Ding, F He, Y Yang, [Multi-Phase Locking Value: A Generalized Method for Determining Instantaneous Multi-frequency Phase Coupling](https://www.sciencedirect.com/science/article/pii/S1746809422000143?dgcid=author), [[preprint:arXiv]](https://arxiv.org/abs/2102.10471), *Biomedical Signal Processing and Control*, 74(4):103492, 2022.
