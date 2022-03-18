@@ -17,7 +17,7 @@ M Foo, L Dony, F He, [Data-driven dynamical modelling of a pathogen-infected pla
 
 B Vasudeva, R Tian, DH, Wu, SA. James, HH Refai, L Ding, F He, Y Yang, [Multi-Phase Locking Value: A Generalized Method for Determining Instantaneous Multi-frequency Phase Coupling](https://www.sciencedirect.com/science/article/pii/S1746809422000143?dgcid=author), [[preprint:arXiv]](https://arxiv.org/abs/2102.10471), *Biomedical Signal Processing and Control*, 74(4):103492, 2022.
 
-D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, M De Marco, P Sarrigiannis, [Characterising Alzheimer's Disease with EEG-based Energy Landscape Analysis](https://ieeexplore.ieee.org/document/9516993), _IEEE Journal of Biomedical and Health Informatics_, doi: 10.1109/JBHI.2021.3105397, 26(3), 2021. [[preprint: arXiv]](https://arxiv.org/abs/2102.09882) [[code]](https://github.com/dominikklepl/AD-energy-landscape)
+D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, M De Marco, P Sarrigiannis, [Characterising Alzheimer's Disease with EEG-based Energy Landscape Analysis](https://ieeexplore.ieee.org/document/9516993), _IEEE Journal of Biomedical and Health Informatics_, 26(3), 992-1000, 2021. [[preprint: arXiv]](https://arxiv.org/abs/2102.09882) [[code]](https://github.com/dominikklepl/AD-energy-landscape)
 
 F He, Y Yang, [Nonlinear System Identification of Neural Systems from Neurophysiological Signals](https://www.sciencedirect.com/science/article/pii/S0306452220307703),  *Neuroscience*, 458, 213-228, 2021. [preprint](https://www.researchgate.net/publication/343563477_Nonlinear_System_Identification_of_Neural_Systems_from_Neurophysiological_Signals)
 
