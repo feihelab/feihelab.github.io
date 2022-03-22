@@ -27,19 +27,21 @@ You can find my recent [list of publications](https://feihelab.github.io/publica
 
 News!
 ------
-1. [Jan 2022] I am co-editing a Speical Issue on [EEG Signal Processing Techniques and Applications](https://www.mdpi.com/journal/sensors/special_issues/EEG_Signal_Processing_Techniques) in *Sensors*. 
+1. [March 2022] I gave an invited talk on “System Identification and Frequency-Domain Analysis in Neuroscience” at MRC Biomedical Engineering Workshop: Application of Engineering to Healthcare at the University of Warwick, 3 March 2022.
 
-1. [Dec 2021] I am co-editing a Special Issue for *Frontiers in Computational Neuroscience & Frontiers in Neuroinformatics* on [Nonlinear Connectivity, Causality and Information Processing in Neuroscience](https://www.frontiersin.org/research-topics/20200/nonlinear-connectivity-causality-and-information-processing-in-neuroscience). Welcome for submissions! Please submit your manuscript by 31 January, 2022.
+2. [March 2022] Our paper [Characterising Alzheimer's Disease with EEG-based Energy Landscape Analysis](https://ieeexplore.ieee.org/document/9516993) is now published in IEEE Journal of Biomedical and Health Informatics. The results show AD patients’ brain network/state transitions are more constrained with more local minima, less variation and smaller basins. Those features of Energy Landscape can potentially be used to predict AD with high accuracy.
 
-2. [Oct 2021] I organised a CSM spotlight series event on [Nonlinear connectivity and frequency-domain analysis in neuroscience](https://www.coventry.ac.uk/research/about-us/research-events/2021/nonlinear-connectivity-and-frequency-domain-analysis-in-neuroscience/).
+3. [Jan 2022] I am co-editing a Speical Issue on [EEG Signal Processing Techniques and Applications](https://www.mdpi.com/journal/sensors/special_issues/EEG_Signal_Processing_Techniques) in *Sensors*. 
+
+4. [Dec 2021] I am co-editing a Special Issue for *Frontiers in Computational Neuroscience & Frontiers in Neuroinformatics* on [Nonlinear Connectivity, Causality and Information Processing in Neuroscience](https://www.frontiersin.org/research-topics/20200/nonlinear-connectivity-causality-and-information-processing-in-neuroscience). Welcome for submissions! Please submit your manuscript by 31 January, 2022.
+
+5. [Oct 2021] I organised a CSM spotlight series event on [Nonlinear connectivity and frequency-domain analysis in neuroscience](https://www.coventry.ac.uk/research/about-us/research-events/2021/nonlinear-connectivity-and-frequency-domain-analysis-in-neuroscience/).
  
-3. [Oct 2021] Fully-funded PhD studentships (international, UK/EU) are available for January 2022 start, jointly led by me and Dr M. Wu from Singapore A-STAR, on [Network Inference, Brain Connectivity & Machine Learning](https://www.findaphd.com/phds/project/network-inference-and-machine-learning-understanding-brain-connectivity-and-neurological-disorders/?p134398). Application deadline: 04 October 2021. Please email me your CV before apply.
+6. [Oct 2021] Fully-funded PhD studentships (international, UK/EU) are available for January 2022 start, jointly led by me and Dr M. Wu from Singapore A-STAR, on [Network Inference, Brain Connectivity & Machine Learning](https://www.findaphd.com/phds/project/network-inference-and-machine-learning-understanding-brain-connectivity-and-neurological-disorders/?p134398). Application deadline: 04 October 2021. Please email me your CV before apply.
 
-4. [August 2021] New preprint - D Klepl, F He, M Wu, DJ Blackburn, P Sarrigiannis, [Bispectrum-based Cross-frequency Functional Connectivity: A Study of Alzheimer's Disease](https://www.biorxiv.org/content/10.1101/2021.08.07.455499v1), bioRxiv, doi: https://doi.org/10.1101/2021.08.07.455499, August 2021.
+7. [August 2021] New preprint - D Klepl, F He, M Wu, DJ Blackburn, P Sarrigiannis, [Bispectrum-based Cross-frequency Functional Connectivity: A Study of Alzheimer's Disease](https://www.biorxiv.org/content/10.1101/2021.08.07.455499v1), bioRxiv, doi: https://doi.org/10.1101/2021.08.07.455499, August 2021.
 
-5. New preprint! Nice work from *Dominik Klepl* on [Characterising Alzheimer's Disease with EEG-based Energy Landscape Analysis](https://arxiv.org/abs/2102.09882). The results show AD patients’ brain network/state transition are more constrained with more local minima, less variation and smaller basins. Those features of Energy Landscape can potentially be used to predict AD with high accuracy.
-
-6. Our review on [Nonlinear System Identification of Neural Systems from Neurophysiological Signals](https://www.sciencedirect.com/science/article/pii/S0306452220307703) is published in *Neuroscience*. You can find the [preprint here](https://www.researchgate.net/publication/343563477_Nonlinear_System_Identification_of_Neural_Systems_from_Neurophysiological_Signals).
+8. Our review on [Nonlinear System Identification of Neural Systems from Neurophysiological Signals](https://www.sciencedirect.com/science/article/pii/S0306452220307703) is published in *Neuroscience*. You can find the [preprint here](https://www.researchgate.net/publication/343563477_Nonlinear_System_Identification_of_Neural_Systems_from_Neurophysiological_Signals).
 
 ------
 
