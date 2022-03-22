@@ -27,7 +27,7 @@ You can find my recent [list of publications](https://feihelab.github.io/publica
 
 News!
 ------
-1. [March 2022] I gave an invited talk on “System Identification and Frequency-Domain Analysis in Neuroscience” at MRC Biomedical Engineering Workshop: Application of Engineering to Healthcare at the University of Warwick, 3 March 2022.
+1. [March 2022] I gave an invited talk on “System Identification and Frequency-Domain Analysis in Neuroscience” at MRC Biomedical Engineering Workshop: Application of Engineering to Healthcare, at the University of Warwick, 3 March 2022.
 
 2. [March 2022] Our paper [Characterising Alzheimer's Disease with EEG-based Energy Landscape Analysis](https://ieeexplore.ieee.org/document/9516993) is now published in _IEEE Journal of Biomedical and Health Informatics_. The results show AD patients’ brain network/state transitions are more constrained with more local minima, less variation and smaller basins. Those features of Energy Landscape can potentially be used to predict AD with high accuracy.
 
