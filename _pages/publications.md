@@ -7,17 +7,17 @@ author_profile: true
 
 **Preprints**
 
-D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, P Sarrigiannis, [Cross-Frequency Multilayer Network Analysis with Bispectrum-based Functional Connectivity: A Study of Alzheimer's Disease](https://www.biorxiv.org/content/10.1101/2021.08.07.455499v2), bioRxiv, doi: https://doi.org/10.1101/2021.08.07.455499, 2022.
+D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, PG Sarrigiannis, [Cross-Frequency Multilayer Network Analysis with Bispectrum-based Functional Connectivity: A Study of Alzheimer's Disease](https://www.biorxiv.org/content/10.1101/2021.08.07.455499v2), bioRxiv, doi: https://doi.org/10.1101/2021.08.07.455499, 2022.
 
 SR Gunawardena, PG Sarrigiannis, DJ Blackburn, F He, [A Kernel-based Nonlinear Manifold Learning for EEG Channel Selection with Application to Alzheimer's Disease](https://www.biorxiv.org/content/10.1101/2021.10.15.464451v1), bioRxiv, doi: https://doi.org/10.1101/2021.10.15.464451, 2021.
 
 M Foo, L Dony, F He, [Data-driven dynamical modelling of a pathogen-infected plant gene regulatory network: a comparative analysis](https://www.biorxiv.org/content/10.1101/2022.02.03.479002v1), bioRxiv, doi: https://doi.org/10.1101/2022.02.03.479002, 2022.
 
-D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, P Sarrigiannis, [Bispectrum-based Cross-frequency Functional Connectivity: Classification of Alzheimer's disease](https://arxiv.org/abs/2206.05354), arXiv:2206.05354, accepted by IEEE EMBC 2022, Glasgow.
+D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, PG Sarrigiannis, [Bispectrum-based Cross-frequency Functional Connectivity: Classification of Alzheimer's disease](https://arxiv.org/abs/2206.05354), arXiv:2206.05354, accepted by IEEE EMBC 2022, Glasgow.
 
 **Recent Journal papers**
 
-D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, M De Marco, P Sarrigiannis, [Characterising Alzheimer's Disease with EEG-based Energy Landscape Analysis](https://ieeexplore.ieee.org/document/9516993), _IEEE Journal of Biomedical and Health Informatics_, 26(3), 992-1000, 2022. [[preprint: arXiv]](https://arxiv.org/abs/2102.09882) [[code]](https://github.com/dominikklepl/AD-energy-landscape)
+D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, M De Marco, PG Sarrigiannis, [Characterising Alzheimer's Disease with EEG-based Energy Landscape Analysis](https://ieeexplore.ieee.org/document/9516993), _IEEE Journal of Biomedical and Health Informatics_, 26(3), 992-1000, 2022. [[preprint: arXiv]](https://arxiv.org/abs/2102.09882) [[code]](https://github.com/dominikklepl/AD-energy-landscape)
 
 B Vasudeva, R Tian, DH, Wu, SA. James, HH Refai, L Ding, F He, Y Yang, [Multi-Phase Locking Value: A Generalized Method for Determining Instantaneous Multi-frequency Phase Coupling](https://www.sciencedirect.com/science/article/pii/S1746809422000143?dgcid=author), [[preprint:arXiv]](https://arxiv.org/abs/2102.10471), *Biomedical Signal Processing and Control*, 74(4):103492, 2022.
 
