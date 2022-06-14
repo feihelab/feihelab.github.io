@@ -13,6 +13,8 @@ SR Gunawardena, PG Sarrigiannis, DJ Blackburn, F He, [A Kernel-based Nonlinear M
 
 M Foo, L Dony, F He, [Data-driven dynamical modelling of a pathogen-infected plant gene regulatory network: a comparative analysis](https://www.biorxiv.org/content/10.1101/2022.02.03.479002v1), bioRxiv, doi: https://doi.org/10.1101/2022.02.03.479002, 2022.
 
+D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, P Sarrigiannis, [Bispectrum-based Cross-frequency Functional Connectivity: Classification of Alzheimer's disease](https://arxiv.org/abs/2206.05354), arXiv:2206.05354, accepted by IEEE EMBC 2022, Glasgow.
+
 **Recent Journal papers**
 
 D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, M De Marco, P Sarrigiannis, [Characterising Alzheimer's Disease with EEG-based Energy Landscape Analysis](https://ieeexplore.ieee.org/document/9516993), _IEEE Journal of Biomedical and Health Informatics_, 26(3), 992-1000, 2022. [[preprint: arXiv]](https://arxiv.org/abs/2102.09882) [[code]](https://github.com/dominikklepl/AD-energy-landscape)
