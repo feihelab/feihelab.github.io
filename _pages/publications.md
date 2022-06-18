@@ -7,7 +7,7 @@ author_profile: true
 
 **Preprints**
 
-D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, PG Sarrigiannis, [EEG-based Graph Neural Network Classification of Alzheimer's Disease: An Empirical Evaluation of Functional Connectivity Methods](https://www.biorxiv.org/content/10.1101/2022.06.14.496080v2), bioRxiv, doi: https://doi.org/10.1101/2022.06.14.496080, 20222.
+D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, PG Sarrigiannis, [EEG-based Graph Neural Network Classification of Alzheimer's Disease: An Empirical Evaluation of Functional Connectivity Methods](https://www.biorxiv.org/content/10.1101/2022.06.14.496080v2), bioRxiv, doi: https://doi.org/10.1101/2022.06.14.496080, 2022.
 
 D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, PG Sarrigiannis, [Cross-Frequency Multilayer Network Analysis with Bispectrum-based Functional Connectivity: A Study of Alzheimer's Disease](https://www.biorxiv.org/content/10.1101/2021.08.07.455499v2), bioRxiv, doi: https://doi.org/10.1101/2021.08.07.455499, 2022.
 
