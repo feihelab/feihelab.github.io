@@ -11,7 +11,7 @@ D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, PG Sarrigiannis, [EEG-based Graph
 
 D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, PG Sarrigiannis, [Cross-Frequency Multilayer Network Analysis with Bispectrum-based Functional Connectivity: A Study of Alzheimer's Disease](https://www.biorxiv.org/content/10.1101/2021.08.07.455499v2), bioRxiv, doi: https://doi.org/10.1101/2021.08.07.455499, 2022.
 
-SR Gunawardena, PG Sarrigiannis, DJ Blackburn, F He, [A Kernel-based Nonlinear Manifold Learning for EEG Channel Selection with Application to Alzheimer's Disease](https://www.biorxiv.org/content/10.1101/2021.10.15.464451v1), bioRxiv, doi: https://doi.org/10.1101/2021.10.15.464451, 2021.
+SR Gunawardena, PG Sarrigiannis, DJ Blackburn, F He<sup>*</sup>, [A Kernel-based Nonlinear Manifold Learning for EEG Channel Selection with Application to Alzheimer's Disease](https://www.biorxiv.org/content/10.1101/2021.10.15.464451v1), bioRxiv, doi: https://doi.org/10.1101/2021.10.15.464451, 2021.
 
 M Foo, L Dony, F He, [Data-driven dynamical modelling of a pathogen-infected plant gene regulatory network: a comparative analysis](https://www.biorxiv.org/content/10.1101/2022.02.03.479002v1), bioRxiv, doi: https://doi.org/10.1101/2022.02.03.479002, 2022.
 
