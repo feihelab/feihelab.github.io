@@ -19,7 +19,7 @@ D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, PG Sarrigiannis, [Bispectrum-base
 
 D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, M De Marco, PG Sarrigiannis, [Characterising Alzheimer's Disease with EEG-based Energy Landscape Analysis](https://ieeexplore.ieee.org/document/9516993), _IEEE Journal of Biomedical and Health Informatics_, 26(3), 992-1000, 2022. [[preprint: arXiv]](https://arxiv.org/abs/2102.09882) [[code]](https://github.com/dominikklepl/AD-energy-landscape)
 
-M Foo, L Dony, F He, [Data-driven dynamical modelling of a pathogen-infected plant gene regulatory network: a comparative analysis](https://www.sciencedirect.com/science/article/abs/pii/S0303264722001162), _BioSystems_, accepted, 2022. 
+M Foo, L Dony, F He, [Data-driven dynamical modelling of a pathogen-infected plant gene regulatory network: a comparative analysis](https://www.sciencedirect.com/science/article/abs/pii/S0303264722001162), _BioSystems_, 219:104732, 2022. 
 
 B Vasudeva, R Tian, DH, Wu, SA. James, HH Refai, L Ding, F He, Y Yang, [Multi-Phase Locking Value: A Generalized Method for Determining Instantaneous Multi-frequency Phase Coupling](https://www.sciencedirect.com/science/article/pii/S1746809422000143?dgcid=author), [[preprint:arXiv]](https://arxiv.org/abs/2102.10471), *Biomedical Signal Processing and Control*, 74(4):103492, 2022.
 
