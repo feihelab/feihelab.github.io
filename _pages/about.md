@@ -30,7 +30,7 @@ News!
 
 1. [July 2022] I was awarded an EPSRC grant (as Co-I) jointly with Prof. Eun-Jin Kim (PI) on 'Information geometric theory of neural information processing and disorder'. We will look for a post-doc RA (to be advertised) in the coming months, please get in touch with me if you are interested (the candidate is expected to have a Phd in applied math, information theory, computer science or computational neuroscience).
 
-2. [July 2022] I attended the 44th IEEE Engineering in Medicine and Biology Conference (EMBC) with my students Dominik Klepl and Stephan Goerttler, at Glasgow. Dominik presented his paper [Bispectrum-based Cross-frequency Functional Connectivity: Classification of Alzheimer’s disease](https://arxiv.org/abs/2206.05354). 
+2. [July 2022] I attended the _44th IEEE Engineering in Medicine and Biology Conference (EMBC)_ with my students Dominik Klepl and Stephan Goerttler, at Glasgow. Dominik presented his paper [Bispectrum-based Cross-frequency Functional Connectivity: Classification of Alzheimer’s disease](https://arxiv.org/abs/2206.05354). 
 
 3. [March 2022] I gave an invited talk on “System Identification and Frequency-Domain Analysis in Neuroscience” at MRC Biomedical Engineering Workshop: Application of Engineering to Healthcare, at the University of Warwick, 3 March 2022.
 
