@@ -28,7 +28,7 @@ You can find my recent [list of publications](https://feihelab.github.io/publica
 News!
 ------
 
-1. [July 2022] I was awarded an EPSRC grant (as Co-I) jointly with Prof. Eun-Jin Kim (PI) on 'Information geometric theory of neural information processing and disorder'. We will look for a post-doc RA (to be advertised) in the coming months, please get in touch with me if you are interested (the candidate is expected to have a Phd in applied math, information theory, computer science or computational neuroscience).
+1. [July 2022] I was awarded an EPSRC grant (as Co-I) jointly with Prof. Eun-Jin Kim (PI) on 'Information geometric theory of neural information processing and disorder'.
 
 2. [July 2022] I attended the _44th IEEE Engineering in Medicine and Biology Conference (EMBC)_ with my students Dominik Klepl and Stephan Goerttler, at Glasgow. Dominik presented his paper [Bispectrum-based Cross-frequency Functional Connectivity: Classification of Alzheimer’s disease](https://arxiv.org/abs/2206.05354). 
 
