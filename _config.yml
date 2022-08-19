@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Systems Engineering & Neuroscience"
+title                    : "Nonlinear Systems, Network & Neuroscience"
 title_separator          : "-"
 name                     : &name "Fei He"
 description              : &description "Systems Engineering, Brain Connectivity, Networks"
