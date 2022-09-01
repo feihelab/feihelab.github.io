@@ -7,8 +7,6 @@ author_profile: true
 
 **Preprints**
 
-D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, PG Sarrigiannis, [EEG-based Graph Neural Network Classification of Alzheimer's Disease: An Empirical Evaluation of Functional Connectivity Methods](https://www.biorxiv.org/content/10.1101/2022.06.14.496080v2), bioRxiv, doi: https://doi.org/10.1101/2022.06.14.496080, 2022.
-
 D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, PG Sarrigiannis, [Cross-Frequency Multilayer Network Analysis with Bispectrum-based Functional Connectivity: A Study of Alzheimer's Disease](https://www.biorxiv.org/content/10.1101/2021.08.07.455499v2), bioRxiv, doi: https://doi.org/10.1101/2021.08.07.455499, 2022.
 
 SR Gunawardena, PG Sarrigiannis, DJ Blackburn, F He<sup>*</sup>, [Kernel-based Nonlinear Manifold Learning for EEG Channel Selection with Application to Alzheimer's Disease](https://www.biorxiv.org/content/10.1101/2021.10.15.464451v2), bioRxiv, doi: https://doi.org/10.1101/2021.10.15.464451, 2022.
@@ -18,6 +16,8 @@ SR Gunawardena, PG Sarrigiannis, DJ Blackburn, F He<sup>*</sup>, [Kernel-based N
 D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, PG Sarrigiannis, [Bispectrum-based Cross-frequency Functional Connectivity: Classification of Alzheimer's disease](https://arxiv.org/abs/2206.05354), arXiv:2206.05354, accepted by _IEEE 44th International Engineering in Medicine and Biology Conference (EMBC)_ 2022, Glasgow.
 
 **Recent Journal papers**
+
+D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, PG Sarrigiannis, [EEG-based Graph Neural Network Classification of Alzheimer's Disease: An Empirical Evaluation of Functional Connectivity Methods](https://www.biorxiv.org/content/10.1101/2022.06.14.496080v2), _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, accepted, 2022.
 
 D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, M De Marco, PG Sarrigiannis, [Characterising Alzheimer's Disease with EEG-based Energy Landscape Analysis](https://ieeexplore.ieee.org/document/9516993), _IEEE Journal of Biomedical and Health Informatics_, 26(3), 992-1000, 2022. [[preprint: arXiv]](https://arxiv.org/abs/2102.09882) [[code]](https://github.com/dominikklepl/AD-energy-landscape)
 
