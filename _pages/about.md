@@ -28,24 +28,26 @@ You can find my recent [list of publications](https://feihelab.github.io/publica
 News!
 ------
 
-1. [July 2022] I was awarded an EPSRC grant (as Co-I) jointly with Prof. Eun-Jin Kim (PI) on 'Information geometric theory of neural information processing and disorder'.
+1. [September 2022] Our recent paper [EEG-based Graph Neural Network Classification of Alzheimer's Disease: An Empirical Evaluation of Functional Connectivity Methods](https://www.biorxiv.org/content/10.1101/2022.06.14.496080v2), has been accepted by _IEEE Transactions on Neural Systems and Rehabilitation Engineering_.
 
-2. [July 2022] I attended the _44th IEEE Engineering in Medicine and Biology Conference (EMBC)_ with my students Dominik Klepl and Stephan Goerttler, at Glasgow. Dominik presented his paper [Bispectrum-based Cross-frequency Functional Connectivity: Classification of Alzheimer’s disease](https://arxiv.org/abs/2206.05354). 
+2. [July 2022] I was awarded an EPSRC grant (as Co-I) jointly with Prof. Eun-Jin Kim (PI) on 'Information geometric theory of neural information processing and disorder'.
 
-3. [March 2022] I gave an invited talk on “System Identification and Frequency-Domain Analysis in Neuroscience” at MRC Biomedical Engineering Workshop: Application of Engineering to Healthcare, at the University of Warwick, 3 March 2022.
+3. [July 2022] I attended the _44th IEEE Engineering in Medicine and Biology Conference (EMBC)_ with my students Dominik Klepl and Stephan Goerttler, at Glasgow. Dominik presented his paper [Bispectrum-based Cross-frequency Functional Connectivity: Classification of Alzheimer’s disease](https://arxiv.org/abs/2206.05354). 
 
-4. [March 2022] Our paper [Characterising Alzheimer's Disease with EEG-based Energy Landscape Analysis](https://ieeexplore.ieee.org/document/9516993) is now published in _IEEE Journal of Biomedical and Health Informatics_. It is also selected as the [front cover featured article](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9729648) of the current issue. The results show AD patients’ brain network/state transitions are more constrained with more local minima, less variation and smaller basins. These features of Energy Landscape can potentially be used to predict AD with high accuracy.
+4. [March 2022] I gave an invited talk on “System Identification and Frequency-Domain Analysis in Neuroscience” at MRC Biomedical Engineering Workshop: Application of Engineering to Healthcare, at the University of Warwick, 3 March 2022.
+
+5. [March 2022] Our paper [Characterising Alzheimer's Disease with EEG-based Energy Landscape Analysis](https://ieeexplore.ieee.org/document/9516993) is now published in _IEEE Journal of Biomedical and Health Informatics_. It is also selected as the [front cover featured article](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9729648) of the current issue. The results show AD patients’ brain network/state transitions are more constrained with more local minima, less variation and smaller basins. These features of Energy Landscape can potentially be used to predict AD with high accuracy.
 ![](./images/JBHI-00443-2021_animated.gif)
 
-5. [Jan 2022] I am co-editing a Speical Issue on [EEG Signal Processing Techniques and Applications](https://www.mdpi.com/journal/sensors/special_issues/EEG_Signal_Processing_Techniques) in *Sensors*. 
+6. [Jan 2022] I am co-editing a Speical Issue on [EEG Signal Processing Techniques and Applications](https://www.mdpi.com/journal/sensors/special_issues/EEG_Signal_Processing_Techniques) in *Sensors*. 
 
-6. [Dec 2021] I am co-editing a Special Issue for *Frontiers in Computational Neuroscience & Frontiers in Neuroinformatics* on [Nonlinear Connectivity, Causality and Information Processing in Neuroscience](https://www.frontiersin.org/research-topics/20200/nonlinear-connectivity-causality-and-information-processing-in-neuroscience). Welcome for submissions! Please submit your manuscript by 31 January, 2022.
+7.  [Dec 2021] I am co-editing a Special Issue for *Frontiers in Computational Neuroscience & Frontiers in Neuroinformatics* on [Nonlinear Connectivity, Causality and Information Processing in Neuroscience](https://www.frontiersin.org/research-topics/20200/nonlinear-connectivity-causality-and-information-processing-in-neuroscience). Welcome for submissions! Please submit your manuscript by 31 January, 2022.
 
-7. [Oct 2021] I organised a CSM spotlight series event on [Nonlinear connectivity and frequency-domain analysis in neuroscience](https://www.coventry.ac.uk/research/about-us/research-events/2021/nonlinear-connectivity-and-frequency-domain-analysis-in-neuroscience/).
+8. [Oct 2021] I organised a CSM spotlight series event on [Nonlinear connectivity and frequency-domain analysis in neuroscience](https://www.coventry.ac.uk/research/about-us/research-events/2021/nonlinear-connectivity-and-frequency-domain-analysis-in-neuroscience/).
 
-8. [August 2021] New preprint - D Klepl, F He, M Wu, DJ Blackburn, P Sarrigiannis, [Bispectrum-based Cross-frequency Functional Connectivity: A Study of Alzheimer's Disease](https://www.biorxiv.org/content/10.1101/2021.08.07.455499v1), bioRxiv, doi: https://doi.org/10.1101/2021.08.07.455499, August 2021.
+9. [August 2021] New preprint - D Klepl, F He, M Wu, DJ Blackburn, P Sarrigiannis, [Bispectrum-based Cross-frequency Functional Connectivity: A Study of Alzheimer's Disease](https://www.biorxiv.org/content/10.1101/2021.08.07.455499v1), bioRxiv, doi: https://doi.org/10.1101/2021.08.07.455499, August 2021.
 
-9. Our review on [Nonlinear System Identification of Neural Systems from Neurophysiological Signals](https://www.sciencedirect.com/science/article/pii/S0306452220307703) is published in *Neuroscience*. You can find the [preprint here](https://www.researchgate.net/publication/343563477_Nonlinear_System_Identification_of_Neural_Systems_from_Neurophysiological_Signals).
+10. Our review on [Nonlinear System Identification of Neural Systems from Neurophysiological Signals](https://www.sciencedirect.com/science/article/pii/S0306452220307703) is published in *Neuroscience*. You can find the [preprint here](https://www.researchgate.net/publication/343563477_Nonlinear_System_Identification_of_Neural_Systems_from_Neurophysiological_Signals).
 
 ------
 
