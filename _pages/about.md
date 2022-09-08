@@ -28,7 +28,7 @@ You can find my recent [list of publications](https://feihelab.github.io/publica
 News!
 ------
 
-1. [September 2022] Our recent paper [EEG-based Graph Neural Network Classification of Alzheimer's Disease: An Empirical Evaluation of Functional Connectivity Methods](https://www.biorxiv.org/content/10.1101/2022.06.14.496080v2), has been accepted by _IEEE Transactions on Neural Systems and Rehabilitation Engineering_.
+1. [September 2022] Our recent paper [EEG-based Graph Neural Network Classification of Alzheimer's Disease: An Empirical Evaluation of Functional Connectivity Methods](https://www.biorxiv.org/content/10.1101/2022.06.14.496080v3), has been accepted by _IEEE Transactions on Neural Systems and Rehabilitation Engineering_.
 
 2. [July 2022] I was awarded an EPSRC grant (as Co-I) jointly with Prof. Eun-Jin Kim (PI) on 'Information geometric theory of neural information processing and disorder'.
 
