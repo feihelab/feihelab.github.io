@@ -30,7 +30,7 @@ News!
 
 1. [September 2022] I have a funded visiting scholarship (6-12 months) for Early Career Researcher (e.g. Lecturer, Associate professor) from Universities in Jiang Su, China to visit my group. If you are interested, please get in touch with me before 18th Oct 2022.
 
-2. [September 2022] Glad to co-edit a Research Topic on [Emerging Talents in Neuroinformatics: 2023](https://www.frontiersin.org/research-topics/45891/emerging-talents-in-neuroinformatics-2023#overview) in _Frontiers in Neuroinformatics_. Welcome for submissions (especially student authors) - abstract deadline 08 Jan 2023.
+2. [September 2022] Glad to co-edit 1) a Research Topic on [Emerging Talents in Neuroinformatics: 2023](https://www.frontiersin.org/research-topics/45891/emerging-talents-in-neuroinformatics-2023#overview) in _Frontiers in Neuroinformatics_ (Welcome for submissions, especially student authors - abstract deadline 08 Jan 2023), and 2) a Research Topic on [Generative AI for Brain Imaging and Brain Network Construction](https://www.frontiersin.org/research-topics/44784/generative-ai-for-brain-imaging-and-brain-network-construction) (abstract deadline 26 Nov 2022).
 
 3. [September 2022] Our recent paper [EEG-based Graph Neural Network Classification of Alzheimer's Disease: An Empirical Evaluation of Functional Connectivity Methods](https://ieeexplore.ieee.org/document/9878348), has been published in _IEEE Transactions on Neural Systems and Rehabilitation Engineering_.
 
