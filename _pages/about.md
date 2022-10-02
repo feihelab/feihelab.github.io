@@ -49,10 +49,6 @@ News!
 
 10. [Oct 2021] I organised a CSM spotlight series event on [Nonlinear connectivity and frequency-domain analysis in neuroscience](https://www.coventry.ac.uk/research/about-us/research-events/2021/nonlinear-connectivity-and-frequency-domain-analysis-in-neuroscience/).
 
-11. [August 2021] New preprint - D Klepl, F He, M Wu, DJ Blackburn, P Sarrigiannis, [Bispectrum-based Cross-frequency Functional Connectivity: A Study of Alzheimer's Disease](https://www.biorxiv.org/content/10.1101/2021.08.07.455499v1), bioRxiv, doi: https://doi.org/10.1101/2021.08.07.455499, August 2021.
-
-12. Our review on [Nonlinear System Identification of Neural Systems from Neurophysiological Signals](https://www.sciencedirect.com/science/article/pii/S0306452220307703) is published in *Neuroscience*. You can find the [preprint here](https://www.researchgate.net/publication/343563477_Nonlinear_System_Identification_of_Neural_Systems_from_Neurophysiological_Signals).
-
 ------
 
 <div style="text-align: center;">
