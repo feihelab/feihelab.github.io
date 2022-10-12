@@ -17,7 +17,7 @@ D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, PG Sarrigiannis, [Bispectrum-base
 
 **Recent Journal papers**
 
-D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, PG Sarrigiannis, [EEG-based Graph Neural Network Classification of Alzheimer's Disease: An Empirical Evaluation of Functional Connectivity Methods](https://ieeexplore.ieee.org/document/9878348), _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, 30, 2651 - 2660, 2022.
+D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, PG Sarrigiannis, [EEG-based Graph Neural Network Classification of Alzheimer's Disease: An Empirical Evaluation of Functional Connectivity Methods](https://ieeexplore.ieee.org/document/9878348), _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, 30, 2651-2660, 2022.
 
 D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, M De Marco, PG Sarrigiannis, [Characterising Alzheimer's Disease with EEG-based Energy Landscape Analysis](https://ieeexplore.ieee.org/document/9516993), _IEEE Journal of Biomedical and Health Informatics_, 26(3), 992-1000, 2022. [[preprint: arXiv]](https://arxiv.org/abs/2102.09882) [[code]](https://github.com/dominikklepl/AD-energy-landscape)
 
