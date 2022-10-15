@@ -13,7 +13,9 @@ SR Gunawardena, PG Sarrigiannis, DJ Blackburn, F He<sup>*</sup>, [Kernel-based N
 
 **Conference papers**
 
-D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, PG Sarrigiannis, [Bispectrum-based Cross-frequency Functional Connectivity: Classification of Alzheimer's disease](https://arxiv.org/abs/2206.05354), arXiv:2206.05354, accepted by _IEEE 44th International Engineering in Medicine and Biology Conference (EMBC)_ 2022, Glasgow.
+D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, PG Sarrigiannis, [Bispectrum-based Cross-frequency Functional Connectivity: Classification of Alzheimer's disease](https://ieeexplore.ieee.org/document/9871366), [arXiv:2206.05354](https://arxiv.org/abs/2206.05354), _IEEE 44th International Engineering in Medicine and Biology Conference (EMBC)_ 2022, Glasgow.
+
+S. Goerttler, M. Wu, F. He, The Effect of Graph Frequencies on Dynamic Structures in Graph Signal Processing, 
 
 **Recent Journal papers**
 
