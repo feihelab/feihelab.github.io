@@ -11,13 +11,13 @@ D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, PG Sarrigiannis, [Cross-Frequency
 
 SR Gunawardena, PG Sarrigiannis, DJ Blackburn, F He<sup>*</sup>, [Kernel-based Nonlinear Manifold Learning for EEG Channel Selection with Application to Alzheimer's Disease](https://www.biorxiv.org/content/10.1101/2021.10.15.464451v2), bioRxiv, doi: https://doi.org/10.1101/2021.10.15.464451, 2022.
 
-**Conference papers**
+**Conference Papers**
 
 D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, PG Sarrigiannis, [Bispectrum-based Cross-frequency Functional Connectivity: Classification of Alzheimer's disease](https://ieeexplore.ieee.org/document/9871366), [arXiv:2206.05354](https://arxiv.org/abs/2206.05354), _IEEE 44th International Engineering in Medicine and Biology Conference (EMBC)_ 2022, Glasgow.
 
 S. Goerttler, M. Wu, F. He, The Effect of Graph Frequencies on Dynamic Structures in Graph Signal Processing, _IEEE Signal Processing in Medicine and Biology Symposium_, 2022, [[accepted version]](https://github.com/feihelab/feihelab.github.io/tree/master/files/p014_001.pdf)
 
-**Recent Journal papers**
+**Recent Journal Papers**
 
 D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, PG Sarrigiannis, [EEG-based Graph Neural Network Classification of Alzheimer's Disease: An Empirical Evaluation of Functional Connectivity Methods](https://ieeexplore.ieee.org/document/9878348), _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, 30, 2651-2660, 2022.
 
