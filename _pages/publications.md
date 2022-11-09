@@ -21,7 +21,7 @@ S. Goerttler, M. Wu, F. He, The Effect of Graph Frequencies on Dynamic Structure
 
 D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, PG Sarrigiannis, [EEG-based Graph Neural Network Classification of Alzheimer's Disease: An Empirical Evaluation of Functional Connectivity Methods](https://ieeexplore.ieee.org/document/9878348), _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, 30, 2651-2660, 2022.
 
-D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, M De Marco, PG Sarrigiannis, [Characterising Alzheimer's Disease with EEG-based Energy Landscape Analysis](https://ieeexplore.ieee.org/document/9516993), _IEEE Journal of Biomedical and Health Informatics_, 26(3), 992-1000, 2022. [[preprint: arXiv]](https://arxiv.org/abs/2102.09882) [[code]](https://github.com/dominikklepl/AD-energy-landscape)
+D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, M De Marco, PG Sarrigiannis, [Characterising Alzheimer's Disease with EEG-based Energy Landscape Analysis](https://ieeexplore.ieee.org/document/9516993), _IEEE Journal of Biomedical and Health Informatics_, 26(3), 992-1000, 2022. [[preprint: arXiv]](https://arxiv.org/abs/2102.09882) [[front cover featured article]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9729648)[[code]](https://github.com/dominikklepl/AD-energy-landscape)
 
 M Foo, L Dony, F He, [Data-driven dynamical modelling of a pathogen-infected plant gene regulatory network: a comparative analysis](https://www.sciencedirect.com/science/article/abs/pii/S0303264722001162), _BioSystems_, 219:104732, 2022. 
 
