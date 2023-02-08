@@ -15,7 +15,9 @@ SR Gunawardena, PG Sarrigiannis, DJ Blackburn, F He<sup>*</sup>, [Kernel-based N
 
 D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, PG Sarrigiannis, [Bispectrum-based Cross-frequency Functional Connectivity: Classification of Alzheimer's disease](https://ieeexplore.ieee.org/document/9871366), [arXiv:2206.05354](https://arxiv.org/abs/2206.05354), _IEEE 44th International Engineering in Medicine and Biology Conference (EMBC)_ 2022, Glasgow.
 
-S. Goerttler, M. Wu, F. He, The Effect of Graph Frequencies on Dynamic Structures in Graph Signal Processing, _IEEE Signal Processing in Medicine and Biology Symposium_, 2022, [[accepted version]](https://github.com/feihelab/feihelab.github.io/tree/master/files/p014_001.pdf)
+S. Goerttler, M. Wu, F. He, [The Effect of Graph Frequencies on Dynamic Structures in Graph Signal Processing](https://ieeexplore.ieee.org/abstract/document/10014954), _IEEE Signal Processing in Medicine and Biology Symposium_, 2022.
+
+S. Ganeshamoorthy, L. Roden, D. Klepl, F. He, [Gene Regulatory Network Inference through Link Prediction using Graph Neural Network](https://ieeexplore.ieee.org/abstract/document/10014835), _IEEE Signal Processing in Medicine and Biology Symposium_, 2022.
 
 **Recent Journal Papers**
 
