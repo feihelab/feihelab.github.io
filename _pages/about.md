@@ -28,7 +28,7 @@ You can find my recent [list of publications](https://feihelab.github.io/publica
 News!
 ------
 
-1. [Jan 2023] I have a fully-funded PhD studentship (jointly with A\*STAR) for Sep 2023 start, on the topic of [Deep Learning, Brain Network and Dynamical System](https://www.coventry.ac.uk/research/research-opportunities/research-students/research-studentships/deep-learning-on-neurophysiological-signals-for-characterising-neurodegenerative-diseases/) (see link for details). Interested candidates please send me your CV. 
+1. [Jan 2023] I have a fully-funded PhD studentship (jointly with A\*STAR) for Sep 2023 start, on the topic of [Deep Learning, Brain Network and Dynamical System](https://www.findaphd.com/phds/project/deep-learning-on-neurophysiological-signals-for-characterising-neurodegenerative-diseases/?p155424) (see link for details). Interested candidates please send me your CV. 
 
 2. [Nov 2022] We have a [Research Fellow position](https://www.jobs.ac.uk/job/CVK069/research-fellow) open (8-month, funded by EPSRC). Please get in touch with us, if you are interested.
 
