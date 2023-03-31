@@ -11,15 +11,9 @@ D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, PG Sarrigiannis, [Cross-Frequency
 
 SR Gunawardena, PG Sarrigiannis, DJ Blackburn, F He<sup>*</sup>, [Kernel-based Nonlinear Manifold Learning for EEG Channel Selection with Application to Alzheimer's Disease](https://www.biorxiv.org/content/10.1101/2021.10.15.464451v2), bioRxiv, doi: https://doi.org/10.1101/2021.10.15.464451, 2022.
 
-**Conference Papers**
-
-D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, PG Sarrigiannis, [Bispectrum-based Cross-frequency Functional Connectivity: Classification of Alzheimer's disease](https://ieeexplore.ieee.org/document/9871366), [arXiv:2206.05354](https://arxiv.org/abs/2206.05354), _IEEE 44th International Engineering in Medicine and Biology Conference (EMBC)_ 2022, Glasgow.
-
-S. Goerttler, M. Wu, F. He, [The Effect of Graph Frequencies on Dynamic Structures in Graph Signal Processing](https://ieeexplore.ieee.org/abstract/document/10014954), _IEEE Signal Processing in Medicine and Biology Symposium_, 2022.
-
-S. Ganeshamoorthy, L. Roden, D. Klepl, F. He, [Gene Regulatory Network Inference through Link Prediction using Graph Neural Network](https://ieeexplore.ieee.org/abstract/document/10014835), _IEEE Signal Processing in Medicine and Biology Symposium_, 2022.
-
 **Recent Journal Papers**
+
+P Li, RJ Van Wezel, F He, Y Zhao, Y Wang, [The Role of Wrist-Worn Technology in the management of Parkinson's disease in daily life: A narrative review](https://www.frontiersin.org/articles/10.3389/fninf.2023.1135300),_Frontiers in Neuroinformatics_, accepted, 2023.
 
 D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, PG Sarrigiannis, [EEG-based Graph Neural Network Classification of Alzheimer's Disease: An Empirical Evaluation of Functional Connectivity Methods](https://ieeexplore.ieee.org/document/9878348), _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, 30, 2651-2660, 2022.
 
@@ -60,3 +54,14 @@ F He, SA Billings, HL Wei, PG Sarrigiannis, Y Zhao, [Spectral analysis for nonst
 F He, V Fromion, HV Westerhoff, [(Im) Perfect robustness and adaptation of metabolic networks subject to metabolic and gene-expression regulation: marrying control engineering with metabolic control analysis](https://link.springer.com/article/10.1186/1752-0509-7-131), *BMC systems biology*, 7(1),131, 2013.
 
 Y Zhao, SA Billings, H Wei, F He, PG Sarrigiannis, [A new NARX-based Granger linear and nonlinear casual influence detection method with applications to EEG data](https://www.sciencedirect.com/science/article/pii/S0165027012003913), *Journal of Neuroscience Methods*, 212(1), 79-86, 2013.
+
+**Conference Papers**
+
+D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, PG Sarrigiannis, [Bispectrum-based Cross-frequency Functional Connectivity: Classification of Alzheimer's disease](https://ieeexplore.ieee.org/document/9871366), [arXiv:2206.05354](https://arxiv.org/abs/2206.05354), _IEEE 44th International Engineering in Medicine and Biology Conference (EMBC)_ 2022, Glasgow.
+
+S. Goerttler, M. Wu, F. He, [The Effect of Graph Frequencies on Dynamic Structures in Graph Signal Processing](https://ieeexplore.ieee.org/abstract/document/10014954), _IEEE Signal Processing in Medicine and Biology Symposium_, 2022.
+
+S. Ganeshamoorthy, L. Roden, D. Klepl, F. He, [Gene Regulatory Network Inference through Link Prediction using Graph Neural Network](https://ieeexplore.ieee.org/abstract/document/10014835), _IEEE Signal Processing in Medicine and Biology Symposium_, 2022.
+
+R Gunawardena, PG Sarrigiannis, DJ Blackburn, F He, [Kernel-based Nonlinear Manifold Learning for EEG Functional Connectivity Analysis with Application to Alzheimer's Disease](https://ieeexplore.ieee.org/abstract/document/10014969), _IEEE Signal Processing in Medicine and Biology Symposium_, 2022.
+
