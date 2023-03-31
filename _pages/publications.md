@@ -13,11 +13,11 @@ SR Gunawardena, PG Sarrigiannis, DJ Blackburn, F He<sup>*</sup>, [Kernel-based N
 
 **Recent Journal Papers**
 
-P Li, RJ Van Wezel, F He, Y Zhao, Y Wang, [The Role of Wrist-Worn Technology in the management of Parkinson's disease in daily life: A narrative review](https://www.frontiersin.org/articles/10.3389/fninf.2023.1135300), _Frontiers in Neuroinformatics_, accepted, 2023.
+P Li, RJ Van Wezel, F He, Y Zhao, Y Wang, [The role of wrist-worn technology in the management of Parkinson's disease in daily life: A narrative review](https://www.frontiersin.org/articles/10.3389/fninf.2023.1135300), _Frontiers in Neuroinformatics_, accepted, 2023.
 
-D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, PG Sarrigiannis, [EEG-based Graph Neural Network Classification of Alzheimer's Disease: An Empirical Evaluation of Functional Connectivity Methods](https://ieeexplore.ieee.org/document/9878348), _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, 30, 2651-2660, 2022.
+D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, PG Sarrigiannis, [EEG-based Graph Neural Network Classification of Alzheimer's disease: An Empirical Evaluation of Functional Connectivity Methods](https://ieeexplore.ieee.org/document/9878348), _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, 30, 2651-2660, 2022.
 
-D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, M De Marco, PG Sarrigiannis, [Characterising Alzheimer's Disease with EEG-based Energy Landscape Analysis](https://ieeexplore.ieee.org/document/9516993), _IEEE Journal of Biomedical and Health Informatics_, 26(3), 992-1000, 2022. [[preprint: arXiv]](https://arxiv.org/abs/2102.09882) [[front cover featured article]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9729648)[[code]](https://github.com/dominikklepl/AD-energy-landscape)
+D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, M De Marco, PG Sarrigiannis, [Characterising Alzheimer's disease with EEG-based Energy Landscape Analysis](https://ieeexplore.ieee.org/document/9516993), _IEEE Journal of Biomedical and Health Informatics_, 26(3), 992-1000, 2022. [[preprint: arXiv]](https://arxiv.org/abs/2102.09882) [[front cover featured article]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9729648)[[code]](https://github.com/dominikklepl/AD-energy-landscape)
 
 M Foo, L Dony, F He, [Data-driven dynamical modelling of a pathogen-infected plant gene regulatory network: a comparative analysis](https://www.sciencedirect.com/science/article/abs/pii/S0303264722001162), _BioSystems_, 219:104732, 2022. 
 
