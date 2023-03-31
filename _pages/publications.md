@@ -13,7 +13,7 @@ SR Gunawardena, PG Sarrigiannis, DJ Blackburn, F He<sup>*</sup>, [Kernel-based N
 
 **Recent Journal Papers**
 
-P Li, RJ Van Wezel, F He, Y Zhao, Y Wang, [The Role of Wrist-Worn Technology in the management of Parkinson's disease in daily life: A narrative review](https://www.frontiersin.org/articles/10.3389/fninf.2023.1135300),_Frontiers in Neuroinformatics_, accepted, 2023.
+P Li, RJ Van Wezel, F He, Y Zhao, Y Wang, [The Role of Wrist-Worn Technology in the management of Parkinson's disease in daily life: A narrative review](https://www.frontiersin.org/articles/10.3389/fninf.2023.1135300), _Frontiers in Neuroinformatics_, accepted, 2023.
 
 D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, PG Sarrigiannis, [EEG-based Graph Neural Network Classification of Alzheimer's Disease: An Empirical Evaluation of Functional Connectivity Methods](https://ieeexplore.ieee.org/document/9878348), _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, 30, 2651-2660, 2022.
 
