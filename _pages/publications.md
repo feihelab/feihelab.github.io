@@ -7,7 +7,7 @@ author_profile: true
 
 **Preprints**
 
-D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, PG Sarrigiannis, [Adaptive Gated Graph Convolutional Network for Explainable Diagnosis of Alzheimer's Disease using EEG Data](https://arxiv.org/abs/2304.05874), arXiv:2304.05874, 2023.
+D Klepl, F He<sup>*</sup>, M Wu<sup>*</sup>, DJ Blackburn, PG Sarrigiannis, [Adaptive Gated Graph Convolutional Network for Explainable Diagnosis of Alzheimer's Disease using EEG Data](https://arxiv.org/abs/2304.05874), arXiv:2304.05874, 2023.
 
 SR Gunawardena, PG Sarrigiannis, DJ Blackburn, F He<sup>*</sup>, [Kernel-based Nonlinear Manifold Learning for EEG Channel Selection with Application to Alzheimer's Disease](https://www.biorxiv.org/content/10.1101/2021.10.15.464451v2), bioRxiv, doi: https://doi.org/10.1101/2021.10.15.464451, 2022.
 
