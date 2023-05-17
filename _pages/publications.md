@@ -13,9 +13,11 @@ SR Gunawardena, PG Sarrigiannis, DJ Blackburn, F He<sup>*</sup>, [Kernel-based N
 
 **Recent Journal Papers**
 
-D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, PG Sarrigiannis, [Cross-Frequency Multilayer Network Analysis with Bispectrum-based Functional Connectivity: A Study of Alzheimer's Disease](https://www.sciencedirect.com/science/article/pii/S0306452223001677), _Neuroscience_, accepted, 2023.
+D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, PG Sarrigiannis, [Cross-Frequency Multilayer Network Analysis with Bispectrum-based Functional Connectivity: A Study of Alzheimer's Disease](https://www.sciencedirect.com/science/article/pii/S0306452223001677), _Neuroscience_, 521, 77-88, 2023.
 
-P Li, RJ Van Wezel, F He, Y Zhao, Y Wang, [The role of wrist-worn technology in the management of Parkinson's disease in daily life: A narrative review](https://www.frontiersin.org/articles/10.3389/fninf.2023.1135300), _Frontiers in Neuroinformatics_, accepted, 2023.
+HJ Choong, E Kim, F He, [Causality Analysis with Information Geometry: A Comparison](https://www.mdpi.com/1099-4300/25/5/806), _Entropy_, 25(5), 806, 2023.
+
+P Li, RJ Van Wezel, F He, Y Zhao, Y Wang, [The role of wrist-worn technology in the management of Parkinson's disease in daily life: A narrative review](https://www.frontiersin.org/articles/10.3389/fninf.2023.1135300), _Frontiers in Neuroinformatics_, 17: 1135300, 2023.
 
 D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, PG Sarrigiannis, [EEG-based Graph Neural Network Classification of Alzheimer's disease: An Empirical Evaluation of Functional Connectivity Methods](https://ieeexplore.ieee.org/document/9878348), _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, 30, 2651-2660, 2022.
 
