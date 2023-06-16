@@ -28,7 +28,7 @@ You can find my recent [list of publications](https://feihelab.github.io/publica
 News!
 ------
 
-1. [April 2023] I will have another **fully-funded PhD studentship (international)** open soon for the Jan 2024 start on Nonlinear systems, Brain network & EEG. Interested candidates please send me your CV. Also, there is an [ACU visiting Fellowship](https://www.acu.ac.uk/funding-opportunities/for-university-staff/fellowships/acu-fellowships/coventry-university-fellowships/) opportunity in my centre, if you are from an [ACU member university](https://www.acu.ac.uk/our-members/) and would like to collabrate with my group, please do email me.
+1. [June 2023] I have a **fully-funded PhD studentship (international)** open for the Jan 2024 start on [Nonlinear systems, Brain network & EEG](https://www.coventry.ac.uk/research/research-opportunities/research-students/research-studentships/nonlinear-system-identification-and-deep-learning-for-neurodegenerative-disease-detection/). Interested candidates please send me your CV and degree transcripts first - I will send you the application link after a preliminary scan.
 
 2. [March 2023] I visited the [UKDRI - UK Dementia Resesarch Institute](https://ukdri.ac.uk), gave a seminar talk at [Dr Nir Grossman's group](https://ukdri.ac.uk/team/nir-grossman) and discussed collaborations.
 
