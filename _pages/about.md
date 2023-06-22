@@ -28,7 +28,7 @@ You can find my recent [list of publications](https://feihelab.github.io/publica
 News!
 ------
 
-1. [June 2023] I have a **fully-funded PhD studentship (international)** open for the Jan 2024 start on [Nonlinear systems, Brain network & EEG](https://www.coventry.ac.uk/research/research-opportunities/research-students/research-studentships/nonlinear-system-identification-and-deep-learning-for-neurodegenerative-disease-detection/). Interested candidates please send me your CV first - I will send you the application link after a preliminary scan.
+1. [June 2023] I have a **fully-funded PhD studentship (international)** open for the Jan 2024 start on [Nonlinear systems, Brain network & EEG](https://www.coventry.ac.uk/research/research-opportunities/research-students/research-studentships/nonlinear-system-identification-and-deep-learning-for-neurodegenerative-disease-detection/). The candidate will work alongside a PDRA (to be advertised) funded by my recent EPSRC award. Interested candidates please send me your CV first - I will send you the application link after a preliminary scan.
 
 2. [March 2023] I visited the [UKDRI - UK Dementia Resesarch Institute](https://ukdri.ac.uk), gave a seminar talk at [Dr Nir Grossman's group](https://ukdri.ac.uk/team/nir-grossman) and discussed collaborations.
 
