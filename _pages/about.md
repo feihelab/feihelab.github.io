@@ -24,7 +24,7 @@ E-mail: fei.he@coventry.ac.uk
 
 You can find my recent [list of publications](https://feihelab.github.io/publications/), [ResearchGate](https://www.researchgate.net/profile/Fei-He), and [University's webpage](https://pureportal.coventry.ac.uk/en/persons/fei-he) here.
 
-**Research projects**
+**Projects & Grants**
 - PI, EPSRC (EP/X020193/1), Characterising Neurological Disorders with Nonlinear System Identification and Network Analysis, Dec 2023 - May 2026.
 - Co-I, EPSRC (EP/W036770/1), Information geometric theory of neural information processing and disorder, Feb 2023 – Feb 2024.
 - Co-I, EPSRC N-code (EP/W035030/1) seed project, Non-invasive Brain-computer-interfaces for Remote Rehab and Training of Motor Skills, Dec 2023 - Dec 2024.
