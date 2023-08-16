@@ -10,7 +10,7 @@ redirect_from:
 I am an Associate Professor in the Centre for Computational Science and Mathematical Modelling, Coventry University, UK.
 My current research interests lie at the interface of control systems engineering, signal processing and neuroscience/biology. Over the years, I have been developing nonlinear system identification and frequency-domain techniques to study complex nonlinear interactions in human brain network, and use such nonlinear features to improve the diagnosis of neurological disorders, such as Alzheimer’s disease and seizures, from neurophysiological signals like electroencephalogram (EEG). I am also interested in statistical machine learnig, network inference and their applications in neuroscience and systems biology, such as identifying complex regulatory mechanisms in cellular (metabolic, genetic) networks.
 
-I previously held research positions at Imperial College London (Theoretical Systems Biology group), University of Sheffield, and University of Manchester (Manchester Centre for Integrative Systems Biology). I received a PhD and an MSc (distinction) in control engineering from University of Manchester. I am the Associate Editor of _IET Healthcare Technology Letters_, editorial board member of _Frontiers in Computational Neuroscience/Neuroinformatics_, and have served as reviewer for a number of peer-reviewed journals (including 4 _IEEE Transactions, Proc. IEEE, Automatica, Biophys. J., Cereb. Cortex, IET Systems Biology, Int. J. Control, Entropy_). I am also the reviewer for international funding bodies (including EPSRC and Royal Society). Currently, I am a member of the _UKRI Future Leaders Fellowships (FLF) peer review college_, a Senior Member of IEEE, and a technical committee member of _Biomedical Signal Processing, IEEE Engineering in Medicine and Biology Society_.
+I previously held research positions at Imperial College London (Theoretical Systems Biology group), University of Sheffield, and University of Manchester (Manchester Centre for Integrative Systems Biology). I received a PhD and an MSc (distinction) in control engineering from University of Manchester. I am the Associate Editor of _IET Healthcare Technology Letters_, editorial board member of _Frontiers in Computational Neuroscience/Neuroinformatics_, and a reviewer for international funding bodies, including EPSRC and Royal Society. Currently, I am a member of the _UKRI Future Leaders Fellowships (FLF) peer review college_, a Senior Member of IEEE, and a technical committee member of _Biomedical Signal Processing, IEEE Engineering in Medicine and Biology Society_.
 
 If you are interested to apply for a PhD studentship, a postdoc Fellowship (e.g. Marie Sklodowska-Curie, UKRI, Leverhulme, Newton International), or a visiting position in my group, please do not hesitate to get in touch with me.
 
@@ -19,7 +19,7 @@ E-mail: fei.he@coventry.ac.uk
 **Research interests**
 - Nonlinear system identification: NARMAX modelling & frequency-domain analysis for EEG
 - Nonlinear connectivity, cross-frequncy coupling & causality analysis in neuroscience
-- Network inference for complex biochemical and neurological networks
+- Geometric deep learning & Network inference for complex biochemical and neurological networks
 - Bayesian inference (parameter estimation and model selection), Gaussian Process, model-based experimental design
 
 You can find my recent [list of publications](https://feihelab.github.io/publications/), [ResearchGate](https://www.researchgate.net/profile/Fei-He), and [University's webpage](https://pureportal.coventry.ac.uk/en/persons/fei-he) here.
@@ -28,6 +28,12 @@ You can find my recent [list of publications](https://feihelab.github.io/publica
 - PI, EPSRC (EP/X020193/1), Characterising Neurological Disorders with Nonlinear System Identification and Network Analysis, Dec 2023 - May 2026.
 - Co-I, EPSRC (EP/W036770/1), Information geometric theory of neural information processing and disorder, Feb 2023 – Feb 2024.
 - Co-I, EPSRC N-code (EP/W035030/1) seed project, Non-invasive Brain-computer-interfaces for Remote Rehab and Training of Motor Skills, Dec 2023 - Dec 2024.
+
+**Recruitment(New)**
+- A 27-months Post-doc RA for my recent EPSRC award (to be advertised, start from March 2024).
+- A 1-year RA for our EPSRC N-code seed project. [job.ac.uk link](https://www.jobs.ac.uk/job/DBT690/research-assistant-n-code)
+- A fully-funded PhD studentship (international) on [Nonlinear system identification and deep learning for EEG](https://www.findaphd.com/phds/project/nonlinear-system-identification-and-deep-learning-for-neurodegenerative-disease-detection/?p159301), Jan 2024 start.
+- A fully-funded joint PhD studentship (international, with A*STAR) on [Deep Learning on Neurophysiological Signals for Characterising Neurodegenerative Diseases](https://www.findaphd.com/phds/project/deep-learning-on-neurophysiological-signals-for-characterising-neurodegenerative-diseases/?p155424), Jan 2024 start.
 
 News!
 ------
