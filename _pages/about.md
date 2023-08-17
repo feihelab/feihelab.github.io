@@ -29,7 +29,7 @@ You can find my recent [list of publications](https://feihelab.github.io/publica
 - Co-I, EPSRC (EP/W036770/1), Information geometric theory of neural information processing and disorder, Feb 2023 – Feb 2024.
 - Co-I, EPSRC N-code (EP/W035030/1) seed project, Non-invasive Brain-computer-interfaces for Remote Rehab and Training of Motor Skills, Dec 2023 - Dec 2024.
 
-**Recruitment(New)**
+**Recruitment (2023-24)**
 - A 27-months Post-doc RA for my recent EPSRC award (to be advertised, start from March 2024).
 - A 1-year RA for our EPSRC N-code seed project. [job.ac.uk link](https://www.jobs.ac.uk/job/DBT690/research-assistant-n-code)
 - A fully-funded PhD studentship (international) on [Nonlinear system identification and deep learning for EEG](https://www.findaphd.com/phds/project/nonlinear-system-identification-and-deep-learning-for-neurodegenerative-disease-detection/?p159301), Jan 2024 start.
