@@ -11,7 +11,7 @@ D Klepl, F He<sup>*</sup>, M Wu<sup>*</sup>, DJ Blackburn, PG Sarrigiannis, [Ada
 
 **Recent Journal Papers**
 
-SR Gunawardena, PG Sarrigiannis, DJ Blackburn, F He<sup>*</sup>, [Kernel-based Nonlinear Manifold Learning for EEG Channel Selection with Application to Alzheimer's Disease](https://www.biorxiv.org/content/10.1101/2021.10.15.464451v2), _Neuroscience_, accepted, 2023.
+SR Gunawardena, PG Sarrigiannis, DJ Blackburn, F He<sup>*</sup>, [Kernel-based Nonlinear Manifold Learning for EEG Channel Selection with Application to Alzheimer's Disease](https://www.sciencedirect.com/science/article/pii/S0306452223002531), _Neuroscience_, 523, 140-156, 2023.
 
 D Klepl, F He<sup>*</sup>, M Wu, DJ Blackburn, PG Sarrigiannis, [Cross-Frequency Multilayer Network Analysis with Bispectrum-based Functional Connectivity: A Study of Alzheimer's Disease](https://www.sciencedirect.com/science/article/pii/S0306452223001677), _Neuroscience_, 521, 77-88, 2023.
 
