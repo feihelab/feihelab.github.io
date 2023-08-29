@@ -9,6 +9,8 @@ author_profile: true
 
 D Klepl, F He<sup>*</sup>, M Wu<sup>*</sup>, DJ Blackburn, PG Sarrigiannis, [Adaptive Gated Graph Convolutional Network for Explainable Diagnosis of Alzheimer's Disease using EEG Data](https://arxiv.org/abs/2304.05874), arXiv:2304.05874, 2023.
 
+A.M.H. Chan, M.L. Pay, J. Christensen, F. He, L.C. Rodend, H. Ahmede, M. Foo, [Red, blue or mix: choice of optimal light qualities for enhanced plant growth through in silico analysis](https://www.cabidigitallibrary.org/doi/10.31220/agriRxiv.2023.00197), agriRxiv.2023.00197, 2023.
+
 **Recent Journal Papers**
 
 SR Gunawardena, PG Sarrigiannis, DJ Blackburn, F He<sup>*</sup>, [Kernel-based Nonlinear Manifold Learning for EEG Channel Selection with Application to Alzheimer's Disease](https://www.sciencedirect.com/science/article/pii/S0306452223002531), _Neuroscience_, 523, 140-156, 2023.
