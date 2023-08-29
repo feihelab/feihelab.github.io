@@ -11,7 +11,13 @@ D Klepl, F He<sup>*</sup>, M Wu<sup>*</sup>, DJ Blackburn, PG Sarrigiannis, [Ada
 
 A.M.H. Chan, M.L. Pay, J. Christensen, F. He, L.C. Roden, H. Ahmed, M. Foo, [Red, blue or mix: choice of optimal light qualities for enhanced plant growth through in silico analysis](https://www.cabidigitallibrary.org/doi/10.31220/agriRxiv.2023.00197), agriRxiv.2023.00197, 2023.
 
+**Book Chapter**
+
+S. Goerttler, M. Wu, F. He, Understanding concepts in graph signal processing for neurophysiological signal analysis, Signal Processing in Medicine and Biology, Springer, 2023.
+
 **Recent Journal Papers**
+
+S. Wang, Z. Zhang, F. He, Y. Hu, [Editorial: Generative AI for Brain Image Computing and Brain Network Computing](https://www.frontiersin.org/articles/10.3389/fnins.2023.1279470/full), Volume 17, _Frontiers in Neuroscience_, 2023.
 
 SR Gunawardena, PG Sarrigiannis, DJ Blackburn, F He<sup>*</sup>, [Kernel-based Nonlinear Manifold Learning for EEG Channel Selection with Application to Alzheimer's Disease](https://www.sciencedirect.com/science/article/pii/S0306452223002531), _Neuroscience_, 523, 140-156, 2023.
 
