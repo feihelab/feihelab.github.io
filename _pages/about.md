@@ -38,9 +38,11 @@ You can find my recent [list of publications](https://feihelab.github.io/publica
 News!
 ------
 
-1. [June 2023] I have a **fully-funded PhD studentship (international)** open for the Jan 2024 start on [Nonlinear systems, Brain network & EEG](https://www.coventry.ac.uk/research/research-opportunities/research-students/research-studentships/nonlinear-system-identification-and-deep-learning-for-neurodegenerative-disease-detection/). The candidate will work alongside a PDRA (to be advertised) funded by my recent EPSRC award. Interested candidates please send me your CV first - I will send you the application link after a preliminary scan.
+1. [Sept 2023] I will co-lead the 'Digital Health' Cross Cutting Theme at Coventry University, jointly with Dr Syed Shah, Dr Jiangtao Wang, and Dr Kim Bul, from the Institute of Health and Wellbeing (IWH).
 
-2. [March 2023] I visited the [UKDRI - UK Dementia Resesarch Institute](https://ukdri.ac.uk), gave a seminar talk at [Dr Nir Grossman's group](https://ukdri.ac.uk/team/nir-grossman) and discussed collaborations.
+2. [June 2023] I have a **fully-funded PhD studentship (international)** open for the Jan 2024 start on [Nonlinear systems, Brain network & EEG](https://www.coventry.ac.uk/research/research-opportunities/research-students/research-studentships/nonlinear-system-identification-and-deep-learning-for-neurodegenerative-disease-detection/). The candidate will work alongside a PDRA (to be advertised) funded by my recent EPSRC award. Interested candidates please send me your CV first - I will send you the application link after a preliminary scan.
+
+3. [March 2023] I visited the [UKDRI - UK Dementia Resesarch Institute](https://ukdri.ac.uk), gave a seminar talk at [Dr Nir Grossman's group](https://ukdri.ac.uk/team/nir-grossman) and discussed collaborations.
 
 2. [Jan 2023] I have a **fully-funded PhD studentship** (jointly with A\*STAR) for Sep 2023 start, on the topic of [Deep Learning, Brain Network and Dynamical System](https://www.findaphd.com/phds/project/deep-learning-on-neurophysiological-signals-for-characterising-neurodegenerative-diseases/?p155424) (see link for details). Interested candidates please send me your CV. 
 
