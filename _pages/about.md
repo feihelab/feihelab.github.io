@@ -38,7 +38,7 @@ You can find my recent [list of publications](https://feihelab.github.io/publica
 News!
 ------
 
-1. [Sept 2023] I will co-lead the 'Digital Health' Cross Cutting Theme at Coventry University, jointly with Dr Syed Shah, Dr Jiangtao Wang, and Dr Kim Bul, from the Institute of Health and Wellbeing (IWH).
+1. [Aug 2023] I will co-lead the 'Digital Health' Cross Cutting Theme at Coventry University, jointly with Dr Syed Shah, Dr Jiangtao Wang, and Dr Kim Bul, from the Institute of Health and Wellbeing (IWH).
 
 2. [June 2023] I have a **fully-funded PhD studentship (international)** open for the Jan 2024 start on [Nonlinear systems, Brain network & EEG](https://www.coventry.ac.uk/research/research-opportunities/research-students/research-studentships/nonlinear-system-identification-and-deep-learning-for-neurodegenerative-disease-detection/). The candidate will work alongside a PDRA (to be advertised) funded by my recent EPSRC award. Interested candidates please send me your CV first - I will send you the application link after a preliminary scan.
 
