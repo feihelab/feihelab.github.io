@@ -41,7 +41,7 @@ IF Kurniawanad, T Asyhari, **F He**, Y Liu, [Mobile computing and communications
 
 E Tankhilevich, J Ish-Horowicz, T Hameed, E Roesch, I Kleijn, MPH Stumpf, **F He**, [GpABC: a Julia package for approximate Bayesian computation with Gaussian process emulation](https://academic.oup.com/bioinformatics/article/36/10/3286/5727756), *Bioinformatics*, 36, 3286–3287, 2020. [[Julia package]](https://github.com/tanhevg/GpABC.jl)
 
-L Dony, F He, MPH Stumpf, [Parametric and non-parametric gradient matching for network inference: a comparison](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2590-7), *BMC Bioinformatics*, 20, 52, 2019. [[code]](https://github.com/feihelab/GradientMatching_BMCBioinformatics)
+L Dony, **F He**, MPH Stumpf, [Parametric and non-parametric gradient matching for network inference: a comparison](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2590-7), *BMC Bioinformatics*, 20, 52, 2019. [[code]](https://github.com/feihelab/GradientMatching_BMCBioinformatics)
 
 **F He**, MPH Stumpf, [Quantifying Dynamic Regulation in Metabolic Pathways with Nonparametric Flux Inference](https://www.sciencedirect.com/science/article/pii/S0006349519303273), *Biophysical Journal*, 116, 2035-2046, 2019.
 
