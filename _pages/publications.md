@@ -7,8 +7,6 @@ author_profile: true
 
 **Preprints**
 
-D Klepl, **F He**<sup>*</sup>, M Wu<sup>*</sup>, DJ Blackburn, PG Sarrigiannis, [Adaptive Gated Graph Convolutional Network for Explainable Diagnosis of Alzheimer's Disease using EEG Data](https://arxiv.org/abs/2304.05874), arXiv:2304.05874, 2023, under revision, _IEEE Transactions on Neural Systems and Rehabilitation Engineering_.
-
 AMH Chan, ML Pay, J Christensen, **F He**, LC Roden, H Ahmed, M Foo, [Red, blue or mix: choice of optimal light qualities for enhanced plant growth through in silico analysis](https://www.cabidigitallibrary.org/doi/10.31220/agriRxiv.2023.00197), agriRxiv.2023.00197, 2023.
 
 **Book Chapter**
@@ -16,6 +14,8 @@ AMH Chan, ML Pay, J Christensen, **F He**, LC Roden, H Ahmed, M Foo, [Red, blue 
 S Goerttler, M Wu, **F He**, Understanding concepts in graph signal processing for neurophysiological signal analysis, Signal Processing in Medicine and Biology, Springer, 2023.
 
 **Recent Journal Papers**
+
+D Klepl, **F He**<sup>*</sup>, M Wu<sup>*</sup>, DJ Blackburn, PG Sarrigiannis, [Adaptive Gated Graph Convolutional Network for Explainable Diagnosis of Alzheimer's Disease using EEG Data](https://arxiv.org/abs/2304.05874), arXiv:2304.05874, _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, accepted, 2023.
 
 S. Wang, Z. Zhang, **F He**, Y. Hu, [Editorial: Generative AI for Brain Image Computing and Brain Network Computing](https://www.frontiersin.org/articles/10.3389/fnins.2023.1279470/full), Volume 17, _Frontiers in Neuroscience_, 2023.
 
