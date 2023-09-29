@@ -30,15 +30,17 @@ You can find my recent [list of publications](https://feihelab.github.io/publica
 - Co-I, EPSRC N-code (EP/W035030/1) seed project, Non-invasive Brain-computer-interfaces for Remote Rehab and Training of Motor Skills, Dec 2023 - Dec 2024.
 
 **Recruitment (2023-24)**
-- A 27-months Post-doc RA for my recent EPSRC award (to be advertised, start from March 2024).
-- A 1-year RA for our EPSRC N-code seed project. [job.ac.uk link](https://www.jobs.ac.uk/job/DBT690/research-assistant-n-code)
+- A 27-months Post-doc RA for my recent EPSRC award (start from March 2024) [jobs.ac.uk link](https://www.jobs.ac.uk/job/DDB782/research-fellow).
+- A 1-year RA for our EPSRC N-code seed project. (Closed!) [job.ac.uk link](https://www.jobs.ac.uk/job/DBT690/research-assistant-n-code)
 - A fully-funded PhD studentship (international) on [Nonlinear system identification and deep learning for EEG](https://www.findaphd.com/phds/project/nonlinear-system-identification-and-deep-learning-for-neurodegenerative-disease-detection/?p159301), Jan 2024 start.
 - A fully-funded joint PhD studentship (international, with A*STAR) on [Deep Learning on Neurophysiological Signals for Characterising Neurodegenerative Diseases](https://www.findaphd.com/phds/project/deep-learning-on-neurophysiological-signals-for-characterising-neurodegenerative-diseases/?p155424), Jan 2024 start.
 
 News!
 ------
 
-1. [Aug 2023] I will co-lead the 'Digital Health' Cross Cutting Theme at Coventry University, jointly with Dr Syed Shah, Dr Jiangtao Wang, and Dr Kim Bul, from the Institute of Health and Wellbeing (IWH).
+1. [Sept 2023] I have a 27-months Post-doc RA open who will work on an exciting topic at the interface between engineering/signal processing, deep learning and neuroscience. [jobs.ac.uk link](https://www.jobs.ac.uk/job/DDB782/research-fellow). Please do get in touch if interested.
+   
+2. [Aug 2023] I will co-lead the 'Digital Health' Cross Cutting Theme at Coventry University, jointly with Dr Syed Shah, Dr Jiangtao Wang, and Dr Kim Bul, from the Institute of Health and Wellbeing (IWH).
 
 2. [June 2023] I have a **fully-funded PhD studentship (international)** open for the Jan 2024 start on [Nonlinear systems, Brain network & EEG](https://www.coventry.ac.uk/research/research-opportunities/research-students/research-studentships/nonlinear-system-identification-and-deep-learning-for-neurodegenerative-disease-detection/). The candidate will work alongside a PDRA (to be advertised) funded by my recent EPSRC award. Interested candidates please send me your CV first - I will send you the application link after a preliminary scan.
 
