@@ -7,6 +7,8 @@ author_profile: true
 
 **Preprints**
 
+D Klepl, M Wu, **F He**<sup>*</sup>, [Graph Neural Network-based EEG Classification: A Survey](https://arxiv.org/abs/2310.02152), arXiv:2310.02152, 2023.
+
 AMH Chan, ML Pay, J Christensen, **F He**, LC Roden, H Ahmed, M Foo, [Red, blue or mix: choice of optimal light qualities for enhanced plant growth through in silico analysis](https://www.cabidigitallibrary.org/doi/10.31220/agriRxiv.2023.00197), agriRxiv.2023.00197, 2023.
 
 **Book Chapter**
