@@ -13,7 +13,7 @@ AMH Chan, ML Pay, J Christensen, **F He**, LC Roden, H Ahmed, M Foo, [Red, blue 
 
 **Book Chapter**
 
-S Goerttler, M Wu, **F He**, Understanding concepts in graph signal processing for neurophysiological signal analysis, Signal Processing in Medicine and Biology, Springer, 2023.
+S Goerttler, M Wu, **F He**, Understanding concepts in graph signal processing for neurophysiological signal analysis, Signal Processing in Medicine and Biology, Springer, 2023. [[PDF]](https://github.com/feihelab/feihelab.github.io/blob/master/files/Springer_Book_Chapter_Review_v2.pdf)
 
 **Recent Journal Papers**
 
