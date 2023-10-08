@@ -17,7 +17,7 @@ S Goerttler, M Wu, **F He**, Understanding concepts in graph signal processing f
 
 **Recent Journal Papers**
 
-D Klepl, **F He**<sup>*</sup>, M Wu<sup>*</sup>, DJ Blackburn, PG Sarrigiannis, [Adaptive Gated Graph Convolutional Network for Explainable Diagnosis of Alzheimer's Disease using EEG Data](https://arxiv.org/abs/2304.05874), arXiv:2304.05874, _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, accepted, DOI:10.1109/TNSRE.2023.3321634, 2023.
+D Klepl, **F He**<sup>*</sup>, M Wu<sup>*</sup>, DJ Blackburn, PG Sarrigiannis, [Adaptive Gated Graph Convolutional Network for Explainable Diagnosis of Alzheimer's Disease using EEG Data](https://ieeexplore.ieee.org/document/10271565), _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, accepted, DOI:10.1109/TNSRE.2023.3321634, 2023.
 
 S. Wang, Z. Zhang, **F He**, Y. Hu, [Editorial: Generative AI for Brain Image Computing and Brain Network Computing](https://www.frontiersin.org/articles/10.3389/fnins.2023.1279470/full), Volume 17, _Frontiers in Neuroscience_, 2023.
 
