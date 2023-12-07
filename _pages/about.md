@@ -38,7 +38,7 @@ You can find my recent [list of publications](https://feihelab.github.io/publica
 News!
 ------
 
-1. [Sept 2023] I chaired a Lecture Session at the 2023 IEEE Signal Processing in Medicine and Biology Symposium (IEEE SPMB) on 2nd December. My student Stephan Goerttler presented his work on "Comparing Spatial and Spectral Graph Filtering for Preprocessing Neurophysiological Signals". [PDF](https://isip.piconepress.com/conferences/ieee_spmb/2023/papers/l01_01.pdf), [Video](https://isip.piconepress.com/conferences/ieee_spmb/2023/papers/l01_01.mp4)
+1. [Dec 2023] I chaired a Lecture Session at the 2023 IEEE Signal Processing in Medicine and Biology Symposium (IEEE SPMB) on 2nd December. My student Stephan Goerttler presented his work on "Comparing Spatial and Spectral Graph Filtering for Preprocessing Neurophysiological Signals". [PDF](https://isip.piconepress.com/conferences/ieee_spmb/2023/papers/l01_01.pdf), [Video](https://isip.piconepress.com/conferences/ieee_spmb/2023/papers/l01_01.mp4)
    
 2. [Sept 2023] I have a 27-months Post-doc RA open who will work on an exciting topic at the interface between engineering/signal processing, deep learning and neuroscience. [jobs.ac.uk link](https://www.jobs.ac.uk/job/DDB782/research-fellow). Please do get in touch if interested.
    
