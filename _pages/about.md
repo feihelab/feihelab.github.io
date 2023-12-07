@@ -69,11 +69,6 @@ News!
 10. [March 2022] Our paper [Characterising Alzheimer's Disease with EEG-based Energy Landscape Analysis](https://ieeexplore.ieee.org/document/9516993) is now published in _IEEE Journal of Biomedical and Health Informatics_. It is also selected as the [front cover featured article](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9729648) of the current issue. The results show AD patients’ brain network/state transitions are more constrained with more local minima, less variation and smaller basins. These features of Energy Landscape can potentially be used to predict AD with high accuracy.
 ![](./images/JBHI-00443-2021_animated.gif)
 
-11. [Jan 2022] I am co-editing a Speical Issue on [EEG Signal Processing Techniques and Applications](https://www.mdpi.com/journal/sensors/special_issues/EEG_Signal_Processing_Techniques) in *Sensors*. 
-
-12. [Dec 2021] I am co-editing a Special Issue for *Frontiers in Computational Neuroscience & Frontiers in Neuroinformatics* on [Nonlinear Connectivity, Causality and Information Processing in Neuroscience](https://www.frontiersin.org/research-topics/20200/nonlinear-connectivity-causality-and-information-processing-in-neuroscience). Welcome for submissions! Please submit your manuscript by 31 January, 2022.
-
-13. [Oct 2021] I organised a CSM spotlight series event on [Nonlinear connectivity and frequency-domain analysis in neuroscience](https://www.coventry.ac.uk/research/about-us/research-events/2021/nonlinear-connectivity-and-frequency-domain-analysis-in-neuroscience/).
 
 ------
 
