@@ -38,9 +38,11 @@ You can find my recent [list of publications](https://feihelab.github.io/publica
 News!
 ------
 
-1. [Sept 2023] I have a 27-months Post-doc RA open who will work on an exciting topic at the interface between engineering/signal processing, deep learning and neuroscience. [jobs.ac.uk link](https://www.jobs.ac.uk/job/DDB782/research-fellow). Please do get in touch if interested.
+1. [Sept 2023] I chaired a Lecture Session at the 2023 IEEE Signal Processing in Medicine and Biology Symposium (IEEE SPMB) on 2nd December. My student Stephan Goerttler presented his work on "Comparing Spatial and Spectral Graph Filtering for Preprocessing Neurophysiological Signals". [PDF](https://isip.piconepress.com/conferences/ieee_spmb/2023/papers/l01_01.pdf), [Video](https://isip.piconepress.com/conferences/ieee_spmb/2023/papers/l01_01.mp4)
    
-2. [Aug 2023] I will co-lead the 'Digital Health' Cross Cutting Theme at Coventry University, jointly with Dr Syed Shah, Dr Jiangtao Wang, and Dr Kim Bul, from the Institute of Health and Wellbeing (IWH).
+2. [Sept 2023] I have a 27-months Post-doc RA open who will work on an exciting topic at the interface between engineering/signal processing, deep learning and neuroscience. [jobs.ac.uk link](https://www.jobs.ac.uk/job/DDB782/research-fellow). Please do get in touch if interested.
+   
+4. [Aug 2023] I will co-lead the 'Digital Health' Cross Cutting Theme at Coventry University, jointly with Dr Syed Shah, Dr Jiangtao Wang, and Dr Kim Bul, from the Institute of Health and Wellbeing (IWH).
 
 2. [June 2023] I have a **fully-funded PhD studentship (international)** open for the Jan 2024 start on [Nonlinear systems, Brain network & EEG](https://www.coventry.ac.uk/research/research-opportunities/research-students/research-studentships/nonlinear-system-identification-and-deep-learning-for-neurodegenerative-disease-detection/). The candidate will work alongside a PDRA (to be advertised) funded by my recent EPSRC award. Interested candidates please send me your CV first - I will send you the application link after a preliminary scan.
 
