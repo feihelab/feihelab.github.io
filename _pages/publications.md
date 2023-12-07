@@ -71,7 +71,7 @@ Y Zhao, SA Billings, H Wei, **F He**, PG Sarrigiannis, [A new NARX-based Granger
 
 **Conference Papers**
 
-S Goerttler, **F He**, M Wu, DJ Blackburn, PG Sarrigiannis, Comparing spatial and spectral graph filtering for preprocessing neurophysiological signals, _IEEE Signal Processing in Medicine and Biology Symposium_, 2023. [PDF]
+S Goerttler, **F He**, M Wu, DJ Blackburn, PG Sarrigiannis, Comparing spatial and spectral graph filtering for preprocessing neurophysiological signals, _IEEE Signal Processing in Medicine and Biology Symposium_, 2023. [PDF](https://isip.piconepress.com/conferences/ieee_spmb/2023/papers/l01_01.pdf), [Video](https://isip.piconepress.com/conferences/ieee_spmb/2023/papers/l01_01.mp4)
 
 D Klepl, **F He**<sup>*</sup>, M Wu, DJ Blackburn, PG Sarrigiannis, [Bispectrum-based Cross-frequency Functional Connectivity: Classification of Alzheimer's disease](https://ieeexplore.ieee.org/document/9871366), [arXiv:2206.05354](https://arxiv.org/abs/2206.05354), _IEEE 44th International Engineering in Medicine and Biology Conference (EMBC)_ 2022, Glasgow.
 
