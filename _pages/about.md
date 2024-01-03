@@ -31,6 +31,7 @@ You can find my recent [list of publications](https://feihelab.github.io/publica
 
 **Recruitment (2024)**
 - Two fully-funded joint PhD studentships (international, with Deakin University) on Computational neuroscience & deep learning, Sept 2024 start - details TBA, email me if interested.
+- - A 1-year MRes (fully-funded) British Council Scholarships for Women in STEM on 'Lowering the Cost of Healthcare:  Neuro-degenerative Disease Detection', Sept 2024 - details TBA. This is open to candidates from India, Pakistan, and Nepal.
 - A fully-funded PhD studentship (international) on [Detecting epilepsy and Alzheimer with energy landscape and information geometric theory](https://www.findaphd.com/phds/project/detecting-epilepsy-and-alzheimer-with-energy-landscape-and-information-geometric-theory/?p167469), Sept 2024 start.
 - A 27-months Post-doc RA for my EPSRC award (closed) [jobs.ac.uk link](https://www.jobs.ac.uk/job/DDB782/research-fellow).
 
