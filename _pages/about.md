@@ -29,11 +29,12 @@ You can find my recent [list of publications](https://feihelab.github.io/publica
 - Co-I, EPSRC (EP/W036770/1), Information geometric theory of neural information processing and disorder, Feb 2023 – Feb 2024.
 - Co-I, EPSRC N-code (EP/W035030/1) seed project, Non-invasive Brain-computer-interfaces for Remote Rehab and Training of Motor Skills, Dec 2023 - Dec 2024.
 
-**Recruitment (2023-24)**
-- A 27-months Post-doc RA for my recent EPSRC award (start from March 2024) [jobs.ac.uk link](https://www.jobs.ac.uk/job/DDB782/research-fellow).
-- A 1-year RA for our EPSRC N-code seed project. (Closed!) [job.ac.uk link](https://www.jobs.ac.uk/job/DBT690/research-assistant-n-code)
-- A fully-funded PhD studentship (international) on [Nonlinear system identification and deep learning for EEG](https://www.findaphd.com/phds/project/nonlinear-system-identification-and-deep-learning-for-neurodegenerative-disease-detection/?p159301), Jan 2024 start.
-- A fully-funded joint PhD studentship (international, with A*STAR) on [Deep Learning on Neurophysiological Signals for Characterising Neurodegenerative Diseases](https://www.findaphd.com/phds/project/deep-learning-on-neurophysiological-signals-for-characterising-neurodegenerative-diseases/?p155424), Jan 2024 start.
+**Recruitment (2024)**
+- Two fully-funded joint PhD studentships (international, with Deakin University) on Computational neuroscience & deep learning, Sept 2024 start - details TBA, email me if interested.
+- A fully-funded PhD studentship (international) on [Detecting epilepsy and Alzheimer with energy landscape and information geometric theory](https://www.findaphd.com/phds/project/detecting-epilepsy-and-alzheimer-with-energy-landscape-and-information-geometric-theory/?p167469), Sept 2024 start.
+- A 27-months Post-doc RA for my EPSRC award (closed) [jobs.ac.uk link](https://www.jobs.ac.uk/job/DDB782/research-fellow).
+
+
 
 News!
 ------
