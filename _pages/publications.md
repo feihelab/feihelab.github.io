@@ -14,7 +14,7 @@ AMH Chan, ML Pay, J Christensen, **F He**, LC Roden, H Ahmed, M Foo, [Red, blue 
 
 **Recent Journal Papers**
 
-D Klepl, M Wu, **F He**<sup>*</sup>, [Graph Neural Network-based EEG Classification: A Survey](https://arxiv.org/abs/2310.02152), arXiv:2310.02152, _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, accepted, 2024.
+D Klepl, M Wu, **F He**<sup>*</sup>, [Graph Neural Network-based EEG Classification: A Survey](https://ieeexplore.ieee.org/document/10403874), _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, accepted, 2024.
 
 D Klepl, **F He**<sup>*</sup>, M Wu<sup>*</sup>, DJ Blackburn, PG Sarrigiannis, [Adaptive Gated Graph Convolutional Network for Explainable Diagnosis of Alzheimer's Disease using EEG Data](https://ieeexplore.ieee.org/document/10271565), _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, 31, 3978-3987, 2023.
 
