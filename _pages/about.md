@@ -40,7 +40,7 @@ You can find my recent [list of publications](https://feihelab.github.io/publica
 News!
 ------
 
-1. [Jan 2024] Our review paper on [Graph Neural Network-based EEG Classification: A Survey](https://arxiv.org/abs/2310.02152) has been accepted by IEEE TNSRE; another paper on [Adaptive Gated Graph Convolutional Network for Explainable Diagnosis of Alzheimer's Disease using EEG Data](https://ieeexplore.ieee.org/document/10271565) has also been published in IEEE TNSRE.
+1. [Jan 2024] Our review paper on [Graph Neural Network-based EEG Classification: A Survey](https://ieeexplore.ieee.org/document/10403874) has been accepted by IEEE TNSRE; another paper on [Adaptive Gated Graph Convolutional Network for Explainable Diagnosis of Alzheimer's Disease using EEG Data](https://ieeexplore.ieee.org/document/10271565) has also been published in IEEE TNSRE.
    
 2. [Dec 2023] If you are interested to apply for the Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowships 2023, in the area of computational neuroscience, please do get in touch with me. We will provide strong support for your application.
    
