@@ -17,7 +17,7 @@ If you are interested to apply for a PhD studentship, a postdoc Fellowship (e.g.
 E-mail: fei.he@coventry.ac.uk
 
 **Research interests**
-- Nonlinear system identification: NARMAX modelling & frequency-domain analysis for EEG
+- Nonlinear system identification: dynamic modelling & frequency-domain analysis for EEG
 - Nonlinear connectivity, cross-frequncy coupling & causality analysis in neuroscience
 - Geometric deep learning & Network inference for complex biochemical and neurological networks
 - Bayesian inference (parameter estimation and model selection), Gaussian Process, model-based experimental design
@@ -31,7 +31,7 @@ You can find my recent [list of publications](https://feihelab.github.io/publica
 
 **Recruitment (2024)**
 - Two fully-funded joint PhD studentships (international, with Deakin University) on Computational neuroscience & deep learning, Sept 2024 start - details TBA, email me if interested.
-- A 1-year MRes (fully-funded) British Council Scholarships for Women in STEM on 'Lowering the Cost of Healthcare:  Neuro-degenerative Disease Detection', Sept 2024 - details TBA. This is open to candidates from India, Pakistan, and Nepal.
+- A 1-year MRes (fully-funded) British Council Scholarships for Women in STEM on [Lowering the Cost of Healthcare:  Neuro-degenerative Disease Detection](https://www.findaphd.com/phds/project/lowering-the-cost-of-healthcare-neuro-degenerative-disease-detection/?p168340), Sept 2024 - This is open to female candidates from South Asia (Bangladesh, India, Nepal, Pakistan, Sri Lanka) with a background in STEM (Science, Technology, Engineering, Mathematics).
 - A fully-funded PhD studentship (international) on [Detecting epilepsy and Alzheimer with energy landscape and information geometric theory](https://www.findaphd.com/phds/project/detecting-epilepsy-and-alzheimer-with-energy-landscape-and-information-geometric-theory/?p167469), Sept 2024 start.
 - A 27-months Post-doc RA for my EPSRC award (closed) [jobs.ac.uk link](https://www.jobs.ac.uk/job/DDB782/research-fellow).
 
