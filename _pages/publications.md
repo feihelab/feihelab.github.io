@@ -68,11 +68,13 @@ HV Westerhoff, AN Brooks, E Simeonidis, R García-Contreras, **F He**, F C Booge
 
 Y Zhao, SA Billings, H Wei, **F He**, PG Sarrigiannis, [A new NARX-based Granger linear and nonlinear casual influence detection method with applications to EEG data](https://www.sciencedirect.com/science/article/pii/S0165027012003913), *Journal of Neuroscience Methods*, 212(1), 79-86, 2013.
 
-**Conference Papers**
+**Conference Papers & Book Chapters**
+
+Y Zhao, **F He**, Y Guo, [EEG Signal Processing Techniques and Applications](https://www.mdpi.com/books/reprint/8647-eeg-signal-processing-techniques-and-applications), Speical Issue Reprint Book, Sensors, 2024
 
 S Goerttler, **F He**, M Wu, DJ Blackburn, PG Sarrigiannis, [Comparing spatial and spectral graph filtering for preprocessing neurophysiological signals](https://ieeexplore.ieee.org/document/10372719), _IEEE Signal Processing in Medicine and Biology Symposium_, 2023. [PDF](https://isip.piconepress.com/conferences/ieee_spmb/2023/papers/l01_01.pdf), [Video](https://isip.piconepress.com/conferences/ieee_spmb/2023/papers/l01_01.mp4)
 
-J-C Hua; E Kim; F He, [Information Geometry Approach to Analyzing Simulated EEG Signals of Alzheimer's Disease Patients and Healthy Control Subjects](https://ieeexplore.ieee.org/document/10385583), _IEEE International Conference on Bioinformatics and Biomedicine (BIBM)_, 2023.
+J-C Hua; E Kim; **F He**, [Information Geometry Approach to Analyzing Simulated EEG Signals of Alzheimer's Disease Patients and Healthy Control Subjects](https://ieeexplore.ieee.org/document/10385583), _IEEE International Conference on Bioinformatics and Biomedicine (BIBM)_, 2023.
 
 D Klepl, **F He**<sup>*</sup>, M Wu, DJ Blackburn, PG Sarrigiannis, [Bispectrum-based Cross-frequency Functional Connectivity: Classification of Alzheimer's disease](https://ieeexplore.ieee.org/document/9871366), [arXiv:2206.05354](https://arxiv.org/abs/2206.05354), _IEEE 44th International Engineering in Medicine and Biology Conference (EMBC)_ 2022, Glasgow.
 
