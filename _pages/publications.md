@@ -7,6 +7,8 @@ author_profile: true
 
 **Preprints**
 
+S Goerttler, **F He**, M Wu, [Stochastic Graph Heat Modelling for Diffusion-based Connectivity Retrieval](https://arxiv.org/abs/2402.12785), arXiv:2402.12785, 2024.
+
 S Goerttler, **F He**, M Wu, [Understanding concepts in graph signal processing for neurophysiological signal analysis](https://arxiv.org/abs/2312.03371), arXiv:2312.03371, 2023.
 
 AMH Chan, ML Pay, J Christensen, **F He**, LC Roden, H Ahmed, M Foo, [Red, blue or mix: choice of optimal light qualities for enhanced plant growth through in silico analysis](https://www.cabidigitallibrary.org/doi/10.31220/agriRxiv.2023.00197), agriRxiv.2023.00197, 2023.
