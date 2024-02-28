@@ -20,6 +20,8 @@ AMH Chan, ML Pay, J Christensen, **F He**, LC Roden, H Ahmed, M Foo, [Red, blue 
 
 D Klepl, M Wu, **F He**<sup>*</sup>, [Graph Neural Network-based EEG Classification: A Survey](https://ieeexplore.ieee.org/document/10403874), _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, 32, 493 - 503, 2024.
 
+J-C Hua, E Kim, **F He**, [Information Geometry Theoretic Measures for Characterizing Neural Information Processing from Simulated EEG Signals](https://www.mdpi.com/1099-4300/26/3/213), _Entropy_, 26(3), 213, 2024.
+
 D Klepl, **F He**<sup>*</sup>, M Wu<sup>*</sup>, DJ Blackburn, PG Sarrigiannis, [Adaptive Gated Graph Convolutional Network for Explainable Diagnosis of Alzheimer's Disease using EEG Data](https://ieeexplore.ieee.org/document/10271565), _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, 31, 3978-3987, 2023.
 
 S. Wang, Z. Zhang, **F He**, Y. Hu, [Editorial: Generative AI for Brain Image Computing and Brain Network Computing](https://www.frontiersin.org/articles/10.3389/fnins.2023.1279470/full), Volume 17, _Frontiers in Neuroscience_, 2023.
