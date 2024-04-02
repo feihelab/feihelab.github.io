@@ -11,7 +11,7 @@ S Goerttler, **F He**, M Wu, [Stochastic Graph Heat Modelling for Diffusion-base
 
 S Goerttler, **F He**, M Wu, [Balancing Spectral, Temporal and Spatial Information for EEG-based Alzheimer's Disease Classification](https://arxiv.org/abs/2402.13523), arXiv:2402.13523, 2024. 
 
-S Goerttler, **F He**, M Wu, [Understanding concepts in graph signal processing for neurophysiological signal analysis](https://arxiv.org/abs/2312.03371), arXiv:2312.03371, 2023.
+S Goerttler, M Wu, **F He**, [Understanding concepts in graph signal processing for neurophysiological signal analysis](https://arxiv.org/abs/2312.03371), In: Ahmed, A., Picone, J. (eds) [Machine Learning Applications in Medicine and Biology](https://link.springer.com/chapter/10.1007/978-3-031-51893-5_1). Springer, 2024.
 
 AMH Chan, ML Pay, J Christensen, **F He**, LC Roden, H Ahmed, M Foo, [Red, blue or mix: choice of optimal light qualities for enhanced plant growth through in silico analysis](https://www.cabidigitallibrary.org/doi/10.31220/agriRxiv.2023.00197), agriRxiv.2023.00197, 2023.
 
