@@ -7,9 +7,9 @@ author_profile: true
 
 **Preprints**
 
-S Goerttler, **F He**, M Wu, [Stochastic Graph Heat Modelling for Diffusion-based Connectivity Retrieval](https://arxiv.org/abs/2402.12785), arXiv:2402.12785, 2024.
+S Goerttler, **F He**, M Wu, [Stochastic Graph Heat Modelling for Diffusion-based Connectivity Retrieval](https://arxiv.org/abs/2402.12785), arXiv:2402.12785, IEEE EMBC, accepted, 2024.
 
-S Goerttler, **F He**, M Wu, [Balancing Spectral, Temporal and Spatial Information for EEG-based Alzheimer's Disease Classification](https://arxiv.org/abs/2402.13523), arXiv:2402.13523, 2024. 
+S Goerttler, **F He**, M Wu, [Balancing Spectral, Temporal and Spatial Information for EEG-based Alzheimer's Disease Classification](https://arxiv.org/abs/2402.13523), arXiv:2402.13523, IEEE EMBC, accepted, 2024. 
 
 S Goerttler, M Wu, **F He**, [Understanding concepts in graph signal processing for neurophysiological signal analysis](https://arxiv.org/abs/2312.03371), In: Ahmed, A., Picone, J. (eds) [Machine Learning Applications in Medicine and Biology](https://link.springer.com/chapter/10.1007/978-3-031-51893-5_1). Springer, 2024.
 
