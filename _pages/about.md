@@ -38,6 +38,7 @@ You can find my recent [list of publications](https://feihelab.github.io/publica
 
 News!
 ------
+1. [April 2024] Congratulations to Dominik Klepl for successfully defending his PhD thesis with no corrections!
 
 1. [Jan 2024] Our review paper on [Graph Neural Network-based EEG Classification: A Survey](https://ieeexplore.ieee.org/document/10403874) has been accepted by IEEE TNSRE; another paper on [Adaptive Gated Graph Convolutional Network for Explainable Diagnosis of Alzheimer's Disease using EEG Data](https://ieeexplore.ieee.org/document/10271565) has also been published in IEEE TNSRE.
    
