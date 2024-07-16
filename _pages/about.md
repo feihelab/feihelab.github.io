@@ -38,7 +38,7 @@ You can find my recent [list of publications](https://feihelab.github.io/publica
 
 News!
 ------
-1. [July 2024] I will chair two sessions on 'Brain Imaging Data Analysis' & 'Deep Learning & Diagnosis' at [46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)](https://embc.embs.org/2024/), Orlando, US, 15 - 19 July.
+1. [July 2024] I will chair two sessions on 'Brain Imaging Data Analysis' & 'Deep Learning & Diagnosis' and Stephan Goerttler will give oral presentation of two work from my group at the [46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)](https://embc.embs.org/2024/), Orlando, US, 15 - 19 July.
    
 2. [April 2024] Congratulations to Dominik Klepl for successfully defending his PhD thesis!
 
