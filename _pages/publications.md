@@ -9,7 +9,7 @@ author_profile: true
 
 S Goerttler, **F He**, M Wu, [Balancing Spectral, Temporal and Spatial Information for EEG-based Alzheimer's Disease Classification](https://arxiv.org/abs/2402.13523), arXiv:2402.13523, IEEE EMBC, 2024. 
 
-H Ye, S Goerttler, **F He**, EEG-GMACN: Interpretable EEG Graph Mutual Attention Convolutional Network, IEEE EMBC, 2024. [[PDF]]
+H Ye, S Goerttler, **F He**, EEG-GMACN: Interpretable EEG Graph Mutual Attention Convolutional Network, IEEE EMBC, 2024.
 
 S Goerttler, **F He**, M Wu, [Stochastic Graph Heat Modelling for Diffusion-based Connectivity Retrieval](https://arxiv.org/abs/2402.12785), arXiv:2402.12785, IEEE EMBC, 2024.
 
