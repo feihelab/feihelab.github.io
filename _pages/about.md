@@ -38,11 +38,13 @@ You can find my recent [list of publications](https://feihelab.github.io/publica
 
 News!
 ------
-1. [July 2024] I will chair two sessions on 'Brain Imaging Data Analysis' & 'Deep Learning & Diagnosis' and Stephan Goerttler will give oral presentations of two papers from my group at the [46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)](https://embc.embs.org/2024/), Orlando, US, 15 - 19 July.
-   
-2. [April 2024] Congratulations to Dominik Klepl for successfully defending his PhD thesis!
+1. [Dec 2024] We released a new Nonlinear System Identification package (for NARMAX model, in Matlab) with improved model term selection function. [[Preprint]](https://arxiv.org/abs/2411.16475), [[Github package]](https://github.com/feihelab/NonSysID).
 
-3. [Jan 2024] Our review paper on [Graph Neural Network-based EEG Classification: A Survey](https://ieeexplore.ieee.org/document/10403874) has been accepted by IEEE TNSRE; another paper on [Adaptive Gated Graph Convolutional Network for Explainable Diagnosis of Alzheimer's Disease using EEG Data](https://ieeexplore.ieee.org/document/10271565) has also been published in IEEE TNSRE.
+3. [July 2024] I will chair two sessions on 'Brain Imaging Data Analysis' & 'Deep Learning & Diagnosis' and Stephan Goerttler will give oral presentations of two papers from my group at the [46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)](https://embc.embs.org/2024/), Orlando, US, 15 - 19 July.
+   
+4. [April 2024] Congratulations to Dominik Klepl for successfully defending his PhD thesis!
+
+5. [Jan 2024] Our review paper on [Graph Neural Network-based EEG Classification: A Survey](https://ieeexplore.ieee.org/document/10403874) has been accepted by IEEE TNSRE; another paper on [Adaptive Gated Graph Convolutional Network for Explainable Diagnosis of Alzheimer's Disease using EEG Data](https://ieeexplore.ieee.org/document/10271565) has also been published in IEEE TNSRE.
    
 2. [Dec 2023] If you are interested to apply for the Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowships 2023, in the area of computational neuroscience, please do get in touch with me. We will provide strong support for your application.
    
