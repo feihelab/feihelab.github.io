@@ -7,7 +7,7 @@ author_profile: true
 
 **Preprints**
 
-R Gunawardena, Z Lang, **F He**, [NonSysId: A nonlinear system identification package with improved model term selection for NARMAX models](https://arxiv.org/abs/2411.16475), arxiv:2411.16475, 2024.
+R Gunawardena, Z Lang, **F He**, [NonSysId: A nonlinear system identification package with improved model term selection for NARMAX models](https://arxiv.org/abs/2411.16475), arxiv:2411.16475, 2024. [Github Link](https://github.com/feihelab/NonSysID)
 
 S Goerttler, **F He**, M Wu, [Balancing Spectral, Temporal and Spatial Information for EEG-based Alzheimer's Disease Classification](https://arxiv.org/abs/2402.13523), arXiv:2402.13523, IEEE EMBC, 2024. 
 
