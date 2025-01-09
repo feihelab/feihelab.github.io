@@ -9,20 +9,21 @@ author_profile: true
 
 R Gunawardena, Z Lang, **F He**, [NonSysId: A nonlinear system identification package with improved model term selection for NARMAX models](https://arxiv.org/abs/2411.16475), arxiv:2411.16475, 2024. [Github Link](https://github.com/feihelab/NonSysID)
 
+S Goerttler, Y Wang, E Eldele, M Wu, **F He**, [MSA-CNN: A Lightweight Multi-Scale CNN with Attention for Sleep Stage Classification](https://arxiv.org/pdf/2501.02949), arXiv:2501.02949, 2025.
+
+H Ye, S Goerttler, **F He**, [EEG-GMACN: Interpretable EEG Graph Mutual Attention Convolutional Network](https://ieeexplore.ieee.org/abstract/document/10782694),[arXiv](https://arxiv.org/pdf/2412.17834), IEEE EMBC, 2024.
+
 S Goerttler, **F He**, M Wu, [Balancing Spectral, Temporal and Spatial Information for EEG-based Alzheimer's Disease Classification](https://arxiv.org/abs/2402.13523), arXiv:2402.13523, IEEE EMBC, 2024. 
 
-H Ye, S Goerttler, **F He**, EEG-GMACN: Interpretable EEG Graph Mutual Attention Convolutional Network, IEEE EMBC, 2024.
-
 S Goerttler, **F He**, M Wu, [Stochastic Graph Heat Modelling for Diffusion-based Connectivity Retrieval](https://arxiv.org/abs/2402.12785), arXiv:2402.12785, IEEE EMBC, 2024.
-
-S Goerttler, M Wu, **F He**, [Understanding concepts in graph signal processing for neurophysiological signal analysis](https://arxiv.org/abs/2312.03371), In: Ahmed, A., Picone, J. (eds) [Machine Learning Applications in Medicine and Biology](https://link.springer.com/chapter/10.1007/978-3-031-51893-5_1). Springer, 2024.
-
 
 **Recent Journal Papers**
 
 D Klepl, M Wu, **F He**<sup>*</sup>, [Graph Neural Network-based EEG Classification: A Survey](https://ieeexplore.ieee.org/document/10403874), _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, 32, 493 - 503, 2024.
 
 J-C Hua, E Kim, **F He**, [Information Geometry Theoretic Measures for Characterizing Neural Information Processing from Simulated EEG Signals](https://www.mdpi.com/1099-4300/26/3/213), _Entropy_, 26(3), 213, 2024.
+
+S Goerttler, M Wu, **F He**, [Understanding concepts in graph signal processing for neurophysiological signal analysis](https://arxiv.org/abs/2312.03371), In: Ahmed, A., Picone, J. (eds) [Machine Learning Applications in Medicine and Biology](https://link.springer.com/chapter/10.1007/978-3-031-51893-5_1). Springer, 2024.
 
 AMH Chan, ML Pay, J Christensen, **F He**, LC Roden, H Ahmed, M Foo, [Red, blue or mix: choice of optimal light qualities for enhanced plant growth through in silico analysis](https://academic.oup.com/insilicoplants/advance-article/doi/10.1093/insilicoplants/diae008/7688906?login=false), in silico Plants,diae008, 2024.
 
