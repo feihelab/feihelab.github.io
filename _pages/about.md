@@ -26,10 +26,13 @@ You can find my recent [list of publications](https://feihelab.github.io/publica
 
 **Projects & Grants**
 - PI, EPSRC (EP/X020193/1), Characterising Neurological Disorders with Nonlinear System Identification and Network Analysis, Dec 2023 - May 2026.
+- PI, EPSRC Bionics+ (EP/W00061X/1) seed project, Identifying Barriers to Home-Based AI Rehabilitation: A Case Study in Stroke Recovery, April - Sept 2025.
 - Co-I, EPSRC (EP/W036770/1), Information geometric theory of neural information processing and disorder, Feb 2023 – Feb 2024.
 - Co-I, EPSRC N-code (EP/W035030/1) seed project, Non-invasive Brain-computer-interfaces for Remote Rehab and Training of Motor Skills, Dec 2023 - Dec 2024.
 
-**Recruitment (2024)**
+**Recruitment**
+- A fully-funded joint PhD studentship (international, with Stellenbosch University) on [Graph deep learning for neurodegenerative disease detection](https://www.coventry.ac.uk/research/research-opportunities/research-students/research-studentships/graph-deep-learning-neurodegenerative-disease-detection/). Jan 2026 intake.
+
 - Two fully-funded joint PhD studentships (international, with Deakin University) on Computational neuroscience, deep learning & ADHD, [[Coventry led]]( http://www.findaphd.com?pj=171908), [[Deakin led]](https://www.coventry.ac.uk/research/research-opportunities/research-students/research-studentships/adhd-deep-learning-and-network-analysis/), Jan 2025 start.
 - A 1-year MRes (fully-funded) British Council Scholarships for Women in STEM on [Lowering the Cost of Healthcare:  Neuro-degenerative Disease Detection](https://www.findaphd.com/phds/project/lowering-the-cost-of-healthcare-neuro-degenerative-disease-detection/?p168340), Sept 2024. It can be transfered to a PhD programme depends on the candidate's performance after the 1st year. This is open to female candidates from South Asia (Bangladesh, India, Nepal, Pakistan, Sri Lanka) with a background in STEM (Science, Technology, Engineering, Mathematics). [Application link](https://pgrplus.coventry.ac.uk/studentships/mpcs-lowering-the-cost-of-healthcare-neuro-degenerative-disease-detection)
 - A co-supervised PhD studentship (international) on [Detecting epilepsy and Alzheimer with energy landscape and information geometric theory](https://www.findaphd.com/phds/project/detecting-epilepsy-and-alzheimer-with-energy-landscape-and-information-geometric-theory/?p167469), Sept 2024 intake.
