@@ -19,6 +19,8 @@ S Goerttler, **F He**, M Wu, [Stochastic Graph Heat Modelling for Diffusion-base
 
 **Recent Journal Papers**
 
+Heng Jie Choong, Eun-jin Kim, Fei He, [Evaluating brain electroencephalogram signal dynamics across cognitive disorders using information geometry](https://journals.plos.org/complexsystems/article?id=10.1371/journal.pcsy.0000059), _PLOS Complex Systems_, 2(7), e0000059, 2025.
+
 D Klepl, M Wu, **F He**<sup>*</sup>, [Graph Neural Network-based EEG Classification: A Survey](https://ieeexplore.ieee.org/document/10403874), _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, 32, 493 - 503, 2024.
 
 J-C Hua, E Kim, **F He**, [Information Geometry Theoretic Measures for Characterizing Neural Information Processing from Simulated EEG Signals](https://www.mdpi.com/1099-4300/26/3/213), _Entropy_, 26(3), 213, 2024.
