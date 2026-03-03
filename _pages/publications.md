@@ -7,8 +7,6 @@ author_profile: true
 
 **Preprints**
 
-R Gunawardena, Z Lang, **F He**, [NonSysId: A nonlinear system identification package with improved model term selection for NARMAX models](https://arxiv.org/abs/2411.16475), arxiv:2411.16475, 2024. [Github Link](https://github.com/feihelab/NonSysID)
-
 S Goerttler, Y Wang, E Eldele, M Wu, **F He**, [MSA-CNN: A Lightweight Multi-Scale CNN with Attention for Sleep Stage Classification](https://arxiv.org/pdf/2501.02949), arXiv:2501.02949, 2025.
 
 H Ye, S Goerttler, **F He**, [EEG-GMACN: Interpretable EEG Graph Mutual Attention Convolutional Network](https://ieeexplore.ieee.org/abstract/document/10782694),[arXiv](https://arxiv.org/pdf/2412.17834), IEEE EMBC, 2024.
@@ -18,6 +16,8 @@ S Goerttler, **F He**, M Wu, [Balancing Spectral, Temporal and Spatial Informati
 S Goerttler, **F He**, M Wu, [Stochastic Graph Heat Modelling for Diffusion-based Connectivity Retrieval](https://arxiv.org/abs/2402.12785), arXiv:2402.12785, IEEE EMBC, 2024.
 
 **Recent Journal Papers**
+
+R Gunawardena, Z Lang, **F He**, [NonSysId: A nonlinear system identification package with improved model term selection for NARMAX models](https://arxiv.org/abs/2411.16475), _Journal of Open Source Software_, 10 (114), 8028, 2025. [Github Link](https://github.com/feihelab/NonSysID)
 
 Heng Jie Choong, Eun-jin Kim, Fei He, [Evaluating brain electroencephalogram signal dynamics across cognitive disorders using information geometry](https://journals.plos.org/complexsystems/article?id=10.1371/journal.pcsy.0000059), _PLOS Complex Systems_, 2(7), e0000059, 2025.
 
