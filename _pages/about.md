@@ -41,9 +41,9 @@ You can find my recent [list of publications](https://feihelab.github.io/publica
 
 News!
 ------
-1.[March 2024] We are organising a workshop (funded by EPSRC and N-CODE Network+) on Characterising Neurodegenerative Diseases with EEG and Wearables on Friday 24 April 2026, at Edgbaston Park Hotel & Conference Centre, Birmingham. Please join us & [register here](https://www.eventbrite.com/e/epsrcn-code-workshop-wearableseeg-for-neurodegenerative-diseases-tickets-1984042085286?aff=oddtdtcreator).
+1. [March 2026] We are organising a workshop (funded by EPSRC and N-CODE Network+) on Characterising Neurodegenerative Diseases with EEG and Wearables on Friday 24 April 2026, at Edgbaston Park Hotel & Conference Centre, Birmingham. Please join us & [register here](https://www.eventbrite.com/e/epsrcn-code-workshop-wearableseeg-for-neurodegenerative-diseases-tickets-1984042085286?aff=oddtdtcreator).
 
-2. [Dec 2024] We released a new Nonlinear System Identification package (for NARMAX model, in Matlab) with improved model term selection function. [[Preprint]](https://arxiv.org/abs/2411.16475), [[Github package]](https://github.com/feihelab/NonSysID).
+2. [Dec 2024] We released a new Nonlinear System Identification package (for NARMAX model, in Matlab) with improved model term selection function. [Paper](https://joss.theoj.org/papers/10.21105/joss.08028.pdf), [[Github package]](https://github.com/feihelab/NonSysID).
 
 3. [July 2024] I will chair two sessions on 'Brain Imaging Data Analysis' & 'Deep Learning & Diagnosis' and Stephan Goerttler will give oral presentations of two papers from my group at the [46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)](https://embc.embs.org/2024/), Orlando, US, 15 - 19 July.
    
