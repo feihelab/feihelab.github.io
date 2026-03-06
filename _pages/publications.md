@@ -83,6 +83,8 @@ Y Zhao, SA Billings, H Wei, **F He**, PG Sarrigiannis, [A new NARX-based Granger
 
 **Conference Papers & Book Chapters**
 
+Kaidong Wu, Haili Ye, Fei He, [Time-Resolved Recurrence Networks of EEG Reveal Altered State-Space Organization in Alzheimer’s Disease](https://www.cosyne.org/poster-session-1), COSYNE 2026, Lisbon and Cascais, Portugal.
+
 Y Zhao, **F He**, Y Guo, [EEG Signal Processing Techniques and Applications](https://www.mdpi.com/books/reprint/8647-eeg-signal-processing-techniques-and-applications), Speical Issue Reprint Book, Sensors, 2024
 
 S Goerttler, **F He**, M Wu, DJ Blackburn, PG Sarrigiannis, [Comparing spatial and spectral graph filtering for preprocessing neurophysiological signals](https://ieeexplore.ieee.org/document/10372719), _IEEE Signal Processing in Medicine and Biology Symposium_, 2023. [PDF](https://isip.piconepress.com/conferences/ieee_spmb/2023/papers/l01_01.pdf), [Video](https://isip.piconepress.com/conferences/ieee_spmb/2023/papers/l01_01.mp4)
