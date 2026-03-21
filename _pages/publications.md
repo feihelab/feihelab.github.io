@@ -7,6 +7,8 @@ author_profile: true
 
 **Preprints**
 
+R Gunawardena, **F He**, [A Dynamical Systems and System Identification Framework for Phase Amplitude Coupling Analysis](https://arxiv.org/abs/2603.08866), arXiv:2603.08866, 2026.
+
 S Goerttler, Y Wang, E Eldele, M Wu, **F He**, [MSA-CNN: A Lightweight Multi-Scale CNN with Attention for Sleep Stage Classification](https://arxiv.org/pdf/2501.02949), arXiv:2501.02949, 2025.
 
 H Ye, S Goerttler, **F He**, [EEG-GMACN: Interpretable EEG Graph Mutual Attention Convolutional Network](https://ieeexplore.ieee.org/abstract/document/10782694),[arXiv](https://arxiv.org/pdf/2412.17834), IEEE EMBC, 2024.
