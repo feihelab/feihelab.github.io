@@ -33,23 +33,19 @@ You can find my recent [list of publications](https://feihelab.github.io/publica
 **Recruitment**
 - A fully-funded joint PhD studentship (international, with Stellenbosch University) on [Graph deep learning for neurodegenerative disease detection](https://www.findaphd.com/phds/project/graph-deep-learning-for-neurodegenerative-disease-detection/?p186346). Jan 2026 intake.
 
-- Two fully-funded joint PhD studentships (international, with Deakin University) on Computational neuroscience, deep learning & ADHD, [[Coventry led]]( http://www.findaphd.com?pj=171908), [[Deakin led]](https://www.coventry.ac.uk/research/research-opportunities/research-students/research-studentships/adhd-deep-learning-and-network-analysis/), Jan 2025 start.
-- A 1-year MRes (fully-funded) British Council Scholarships for Women in STEM on [Lowering the Cost of Healthcare:  Neuro-degenerative Disease Detection](https://www.findaphd.com/phds/project/lowering-the-cost-of-healthcare-neuro-degenerative-disease-detection/?p168340), Sept 2024. It can be transfered to a PhD programme depends on the candidate's performance after the 1st year. This is open to female candidates from South Asia (Bangladesh, India, Nepal, Pakistan, Sri Lanka) with a background in STEM (Science, Technology, Engineering, Mathematics). [Application link](https://pgrplus.coventry.ac.uk/studentships/mpcs-lowering-the-cost-of-healthcare-neuro-degenerative-disease-detection)
-- A co-supervised PhD studentship (international) on [Detecting epilepsy and Alzheimer with energy landscape and information geometric theory](https://www.findaphd.com/phds/project/detecting-epilepsy-and-alzheimer-with-energy-landscape-and-information-geometric-theory/?p167469), Sept 2024 intake.
-- A co-supervised PhD studentship (international) on [Interoception of breathing and the effects on the cortical control of balance](https://www.findaphd.com/phds/project/interoception-of-breathing-and-the-effects-on-the-cortical-control-of-balance/?p168599) (with Centre for Physical Activity Sport and Exercise Sciences), Sept 2024 intake.
-
-
 News!
 ------
 1. [March 2026] We are organising a workshop (funded by EPSRC and N-CODE Network+) on Characterising Neurodegenerative Diseases with EEG and Wearables on Friday 24 April 2026, at Edgbaston Park Hotel & Conference Centre, Birmingham. Please join us & [register here](https://www.eventbrite.com/e/epsrcn-code-workshop-wearableseeg-for-neurodegenerative-diseases-tickets-1984042085286?aff=oddtdtcreator).
-
-2. [Dec 2024] We released a new Nonlinear System Identification package (for NARMAX model, in Matlab) with improved model term selection function. [Paper](https://joss.theoj.org/papers/10.21105/joss.08028.pdf), [[Github package]](https://github.com/feihelab/NonSysID).
-
-3. [July 2024] I will chair two sessions on 'Brain Imaging Data Analysis' & 'Deep Learning & Diagnosis' and Stephan Goerttler will give oral presentations of two papers from my group at the [46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)](https://embc.embs.org/2024/), Orlando, US, 15 - 19 July.
    
-4. [April 2024] Congratulations to Dominik Klepl for successfully defending his PhD thesis!
+2. [March 2026] Our new preprint on using dynamical system/system identification technique to study phase-amplitude coupling is out: [A Dynamical Systems and System Identification Framework for Phase Amplitude Coupling Analysis](https://arxiv.org/abs/2603.08866).
 
-5. [Jan 2024] Our review paper on [Graph Neural Network-based EEG Classification: A Survey](https://ieeexplore.ieee.org/document/10403874) has been accepted by IEEE TNSRE; another paper on [Adaptive Gated Graph Convolutional Network for Explainable Diagnosis of Alzheimer's Disease using EEG Data](https://ieeexplore.ieee.org/document/10271565) has also been published in IEEE TNSRE.
+4. [Dec 2024] We released a new Nonlinear System Identification package (for NARMAX model, in Matlab) with improved model term selection function. [Paper](https://joss.theoj.org/papers/10.21105/joss.08028.pdf), [[Github package]](https://github.com/feihelab/NonSysID).
+
+5. [July 2024] I will chair two sessions on 'Brain Imaging Data Analysis' & 'Deep Learning & Diagnosis' and Stephan Goerttler will give oral presentations of two papers from my group at the [46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)](https://embc.embs.org/2024/), Orlando, US, 15 - 19 July.
+   
+6. [April 2024] Congratulations to Dominik Klepl for successfully defending his PhD thesis!
+
+7. [Jan 2024] Our review paper on [Graph Neural Network-based EEG Classification: A Survey](https://ieeexplore.ieee.org/document/10403874) has been accepted by IEEE TNSRE; another paper on [Adaptive Gated Graph Convolutional Network for Explainable Diagnosis of Alzheimer's Disease using EEG Data](https://ieeexplore.ieee.org/document/10271565) has also been published in IEEE TNSRE.
    
 2. [Dec 2023] If you are interested to apply for the Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowships 2023, in the area of computational neuroscience, please do get in touch with me. We will provide strong support for your application.
    
