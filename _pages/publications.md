@@ -9,15 +9,15 @@ author_profile: true
 
 R Gunawardena, **F He**, [A Dynamical Systems and System Identification Framework for Phase Amplitude Coupling Analysis](https://arxiv.org/abs/2603.08866), arXiv:2603.08866, 2026.
 
-S Goerttler, Y Wang, E Eldele, M Wu, **F He**, [MSA-CNN: A Lightweight Multi-Scale CNN with Attention for Sleep Stage Classification](https://arxiv.org/pdf/2501.02949), arXiv:2501.02949, 2025.
-
-H Ye, S Goerttler, **F He**, [EEG-GMACN: Interpretable EEG Graph Mutual Attention Convolutional Network](https://ieeexplore.ieee.org/abstract/document/10782694),[arXiv](https://arxiv.org/pdf/2412.17834), IEEE EMBC, 2024.
+S Goerttler, M Wu, **F He**, [Connectivity Estimation using Stochastic Graph Heat Modelling](https://arxiv.org/abs/2606.29098), arXiv:2606.29098, 2026
 
 S Goerttler, **F He**, M Wu, [Balancing Spectral, Temporal and Spatial Information for EEG-based Alzheimer's Disease Classification](https://arxiv.org/abs/2402.13523), arXiv:2402.13523, IEEE EMBC, 2024. 
 
 S Goerttler, **F He**, M Wu, [Stochastic Graph Heat Modelling for Diffusion-based Connectivity Retrieval](https://arxiv.org/abs/2402.12785), arXiv:2402.12785, IEEE EMBC, 2024.
 
 **Recent Journal Papers**
+
+S Goerttler, Y Wang, E Eldele, M Wu, **F He**, [MSA-CNN: A Lightweight Multi-Scale CNN with Attention for Sleep Stage Classification](https://www.sciencedirect.com/science/article/pii/S1746809426006956),[arXiv](https://arxiv.org/pdf/2501.02949), Biomedical Signal Processing and Control, 120, 110141, 2026.
 
 R Gunawardena, Z Lang, **F He**, [NonSysId: A nonlinear system identification package with improved model term selection for NARMAX models](https://arxiv.org/abs/2411.16475), _Journal of Open Source Software_, 10 (114), 8028, 2025. [Github Link](https://github.com/feihelab/NonSysID)
 
@@ -86,6 +86,8 @@ Y Zhao, SA Billings, H Wei, **F He**, PG Sarrigiannis, [A new NARX-based Granger
 **Conference Papers & Book Chapters**
 
 Kaidong Wu, Haili Ye, Fei He, [Time-Resolved Recurrence Networks of EEG Reveal Altered State-Space Organization in Alzheimer’s Disease](https://www.cosyne.org/poster-session-1), COSYNE 2026, Lisbon and Cascais, Portugal.
+
+H Ye, S Goerttler, **F He**, [EEG-GMACN: Interpretable EEG Graph Mutual Attention Convolutional Network](https://ieeexplore.ieee.org/abstract/document/10782694),[arXiv](https://arxiv.org/pdf/2412.17834), IEEE EMBC, 2024.
 
 Y Zhao, **F He**, Y Guo, [EEG Signal Processing Techniques and Applications](https://www.mdpi.com/books/reprint/8647-eeg-signal-processing-techniques-and-applications), Speical Issue Reprint Book, Sensors, 2024
 
